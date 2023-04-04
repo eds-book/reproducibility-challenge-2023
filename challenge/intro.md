@@ -22,7 +22,7 @@ EOSC is run as a [co-programmed European Partnership under Horizon Europe from 2
 
 ## Pangeo Europe 
 
-<img src="./figures/pangeo_name_logo.png" width="180" align="Left" /></a>
+<img src="https://github.com/eds-book/reproducibility-challenge-2023/raw/main/challenge/figures/pangeo_name_logo.png" width="180" align="Left" /></a>
 
 [Pangeo](https://pangeo.io/) is a worldwide community for Big Data geoscience promoting open, reproducible, and scalable science. 
 
@@ -31,7 +31,7 @@ The Pangeo deployment on EOSC has been made possible thanks to the [C-SCALE](htt
 
 ## C-SCALE
 
-<img src="./figures/logo-c-scale-vertical-blue.png" width="180" align="Left" /></a>
+<img src="https://github.com/eds-book/reproducibility-challenge-2023/raw/main/challenge/figures/logo-c-scale-vertical-blue.png" width="180" align="Left" /></a>
 
 ### Vision
 
@@ -45,7 +45,7 @@ The C-SCALE project will enhance EOSC Portal with pan-European federated data an
 
 <table>
   <tr>
-   <th><img src="./figures/normal-reproduction-low-resolution.png" width="180" align="Right" /></a></th>
+   <th><img src="https://github.com/eds-book/reproducibility-challenge-2023/raw/main/challenge/figures/normal-reproduction-low-resolution.png" width="180" align="Right" /></a></th>
    <th>The C-SCALE project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 101017529.</th> 
   </tr>
 </table>
