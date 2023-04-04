@@ -4,8 +4,19 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+
+## Infrastructure
+
 <img src="challenge/figures/pangeo_logo.png" width="180" align="Left" /></a>
 <img src="challenge/figures/logo-c-scale-vertical-blue.png" width="180" align="Right" /></a>
+
+<table>
+  <tr>
+   <th><img src="challenge/figures/normal-reproduction-low-resolution.png" width="180" align="Right" /></a></th>
+   <th>This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 101017529.</th> 
+  </tr>
+</table>
+
 
 <br>
 
