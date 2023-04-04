@@ -1,19 +1,10 @@
 # Welcome 👋
 
 :::{tip}
-The computing and storage resources used for this workshop have been kindly provided by [CESNET](https://www.cesnet.cz/?lang=en) in the frame of the [EGI-ACE](https://www.egi.eu/project/egi-ace/) project that provides advanced Computing for [EOSC](https://eosc-portal.eu/about/eosc).
+The computing and storage resources used for this workshop have been kindly provided by the [C-SCALE](https://c-scale.eu) project that provides advanced Computing for [EOSC](https://eosc-portal.eu/about/eosc).
 :::
 
-
-## FOSS4G Annual International Gathering
-
-[FOSS4G](https://foss4g.org/) stands for **Free and Open Source Software for Geospatial** and is the annual recurring global event hosted by [OSGeo](https://www.osgeo.org/), the non-profit organization that supports and promotes the collaborative development of free and open source geographic technologies and open geospatial data. 
-
-### FOSS4G Pangeo 101 workshop
-
-An [introduction to the Pangeo ecosystem](https://talks.osgeo.org/foss4g-2022-workshops/talk/NF8BKU/) will be provided by the Pangeo Community. 
-You will learn how to efficiently access, analyze and visualize geospatial data at scale. 
-The workshop timeline, setup and content are accessible via the left menu of this webpage.
+## Infrastructure
 
 ## The European Open Science Cloud (EOSC)
 
@@ -29,18 +20,33 @@ On the other hand, as a researcher, innovator, company or citizen you can contri
 
 EOSC is run as a [co-programmed European Partnership under Horizon Europe from 2021](https://ec.europa.eu/info/horizon-europe/european-partnerships-horizon-europe/candidates-across-themes_en). [Horizon Europe](https://ec.europa.eu/info/horizon-europe_en) is the European Commission's research and innovation funding programme (started in 2021 and succeeding the Horizon 2020 European programme).
 
-## Pangeo Europe and EGI-ACE
+## Pangeo Europe 
 
-![Pangeo logo](./figures/pangeo_name_logo.png) 
+<img src="./figures/pangeo_name_logo.png" width="180" align="Left" /></a>
 
 [Pangeo](https://pangeo.io/) is a worldwide community for Big Data geoscience promoting open, reproducible, and scalable science. 
 
 [Pangeo Europe](https://pangeo.io/meeting-notes.html) aims at highlighting European contributions to the Pangeo Community and at providing a reference deployment for Pangeo on EOSC. 
-The Pangeo deployment on EOSC has been made possible thanks to the [EGI-ACE](https://www.egi.eu/project/egi-ace/) project through their [Open Call](https://www.egi.eu/egi-ace-open-call/).
+The Pangeo deployment on EOSC has been made possible thanks to the [C-SCALE](https://c-scale.eu) project through their Open Call.
 
-![EGI-ACE](./figures/EGI-ACE_logo.png)
+## C-SCALE
 
-[EGI-ACE](https://www.egi.eu/project/egi-ace/) (EU H2020 project, January 2021 - June 2023) offers compute and storage resources, compute platform services, data management services and related user support and training through open calls. 
-The majority of the services are sponsored (pre-paid) for the users by the European Commission and by national funding agencies. Some of the services are offered by commercial entities on a pay-per-use basis. 
+<img src="./figures/logo-c-scale-vertical-blue.png" width="180" align="Left" /></a>
 
-**For the deployment of Pangeo on EOSC, [CESNET](https://www.cesnet.cz/?lang=en) is the provider that freely offered computing resources and storage.**
+### Vision
+
+C-SCALE serves European researchers, institutions and initiatives by making Copernicus data, tools, resources and services easier to discover, access and share.
+
+### Mission
+
+The C-SCALE project will enhance EOSC Portal with pan-European federated data and computing infrastructure services for Copernicus.
+
+### Funding for C-SCALE project
+
+<table>
+  <tr>
+   <th><img src="./figures/normal-reproduction-low-resolution.png" width="180" align="Right" /></a></th>
+   <th>The C-SCALE project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 101017529.</th> 
+  </tr>
+</table>
+
