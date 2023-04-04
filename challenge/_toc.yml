@@ -7,7 +7,7 @@ parts:
 - caption: About
   chapters:
   - file: about/timeline
-    title: Reproducibility timeline
+    title: Reproducibility Challenge timeline
 
 - caption: Before the Reproducibility Challenge
   chapters:

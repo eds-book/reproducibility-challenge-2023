@@ -27,12 +27,12 @@ There are several steps to follow:
 It is **important** to perform all these steps **as early as possible** in order for managers of the Virtual Organisations to approve your petitions to join (which may **take several days**).
 :::
 
-Once your enrollments have been validated, you may need to log out from EGI Check-in to refresh your account. If you have any trouble, request help by [filling an issue](https://github.com/pangeo-data/foss4g-2022/issues/new) before the workshop. Someone will assist you with the setup.
+Once your enrollments have been validated, you may need to log out from EGI Check-in to refresh your account. If you have any trouble, request help by [filling an issue](https://github.com/eds-book/reproducibility-challenge-2023/issues/new) before the workshop. Someone will assist you with the setup.
 
 
-To access the Pangeo EOSC JupyterHub, you need to click on [this link](https://pangeo-foss4g.vm.fedcloud.eu/jupyterhub/hub/user-redirect/git-pull?repo=https%3A//github.com/pangeo-data/foss4g-2022&urlpath=lab/tree/foss4g-2022/tutorial/pangeo101/&branch=main) to open a Jupyterlab on the correct folder for the tutorial.
+To access the Pangeo EOSC JupyterHub, you need to click on [this link](https://eds-book.vm.fedcloud.eu/jupyterhub/hub/user-redirect/git-pull?repo=https%3A//github.com/eds-book/reproducibility-challenge-2023&urlpath=lab/tree/reproducibility-challenge-2023/tutorial/pangeo101/&branch=main) to open a Jupyterlab on the correct folder for the tutorial.
 
-Under the hood, this will clone the https://github.com/pangeo-data/foss4g-2022 repository and put you in the correct folder for executing our tutorial.
+Under the hood, this will clone the https://github.com/eds-book/reproducibility-challenge-2023 repository and put you in the correct folder for executing our tutorial.
 
 From there, you can open and execute any notebooks used during the workshop, enjoy!
 
@@ -40,7 +40,7 @@ Alternatively, you can also open notebooks one by one from the PANGEO 101 sectio
 
 :::{note}
 After the FOSS4G workshop, you can continue to use the resources, but note that we would probably modify the service and things might not work from time to time. 
-We would appreciate you get in touch with us to give us some feedback and be informed of the platform evolution. You can do this through [Github Discussions](https://github.com/pangeo-data/foss4g-2022/discussions).
+We would appreciate you get in touch with us to give us some feedback and be informed of the platform evolution. You can do this through [Github Discussions](https://github.com/eds-book/reproducibility-challenge-2023/discussions).
 
 You can also contribute to "the Pangeo show and tell" online meetups.
 :::
@@ -53,21 +53,21 @@ It is a bit more complicated as you will have to install the software environmen
 
 Steps to run this tutorial on your own computer are listed below and demonstrated _through Linux commands only_:
 
-1. git clone the foss4g-2022 repository.
+1. git clone the reproducibility-challenge--2023 repository.
 ```bash
-git clone https://github.com/pangeo-data/foss4g-2022.git
+git clone https://github.com/eds-book/reproducibility-challenge-2023.git
 ```
 2. Install the required software environment with Conda. If you do not have Conda, install it by following these instructions (see [here](https://docs.conda.io/en/latest/miniconda.html)). Then create the environment, this can take a few minutes.
 ```bash
-conda env create -n pangeo-foss4g -f foss4g-2022/.binder/environment.yml
+conda env create -n challenge -f reproduciblity-challenge-2023/.binder/environment.yml
 ```
 3. Launch a Jupyterlab notebook server from this environment.
 ```bash
-conda activate pangeo-foss4g
+conda activate challenge
 jupyter lab
 ```
 4. Open a web browser and connect to the Jupyterlab provided URL (you should see it in the jupyter lab command outputs), something like: http://localhost:8888/lab?token=42fac6733c6854578b981bca3abf5152.
-5. Navigate to foss4g-2022/tutorial/pangeo101/ using the file browser on the left side of the Jupyterlab screen.
+5. Navigate to reproducibility-challenge-2023/tutorial/pangeo101/ using the file browser on the left side of the Jupyterlab screen.
 
 ## Running using a Binderhub deployment
 
@@ -83,10 +83,10 @@ Alternatively, you can also directly click on the below buttons:
 
 GESIS:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/pangeo-data/foss4g-2022/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/ds-book/reproducibility-challenge-2023/HEAD)
 
 MyBinder:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pangeo-data/foss4g-2022/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eds-book/reproducibility-challenge-2023/HEAD)
 
-You will then have to navigate to the foss4g-2022/tutorial/pangeo101/ folder using the file browser on the left side of the Jupyterlab screen.
+You will then have to navigate to the reproducibility-challenge-2023/tutorial/pangeo101/ folder using the file browser on the left side of the Jupyterlab screen.
