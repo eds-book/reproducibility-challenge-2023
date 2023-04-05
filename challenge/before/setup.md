@@ -1,3 +1,37 @@
+# Access to cloud computing and storage resources
+
+
+## The European Open Science Cloud (EOSC)
+
+![EOSC logo](../figures/EOSC_logo-small.png)
+
+The [European Open Science Cloud (EOSC)](https://eosc-portal.eu/about/eosc) aims at becoming the main environment for hosting and processing research data to support European Science. 
+
+## Pangeo Europe 
+
+<img src="https://github.com/eds-book/reproducibility-challenge-2023/raw/main/challenge/figures/pangeo_name_logo.png" width="180" align="Left" /></a>
+
+[Pangeo](https://pangeo.io/) is a worldwide community for Big Data geoscience promoting open, reproducible, and scalable science. 
+
+[Pangeo Europe](https://pangeo.io/meeting-notes.html) aims at highlighting European contributions to the Pangeo Community and at providing a reference deployment for Pangeo on EOSC. 
+The Pangeo deployment on EOSC has been made possible thanks to the [C-SCALE](https://c-scale.eu) project through their Open Call.
+
+## C-SCALE
+
+<img src="https://github.com/eds-book/reproducibility-challenge-2023/raw/main/challenge/figures/logo-c-scale-vertical-blue.png" width="180" align="Left" /></a>
+
+### Vision
+
+C-SCALE serves European researchers, institutions and initiatives by making Copernicus data, tools, resources and services easier to discover, access and share.
+
+### Mission
+
+The C-SCALE project will enhance EOSC Portal with pan-European federated data and computing infrastructure services for Copernicus.
+
+### Funding for C-SCALE project
+
+
+
 # Setup: how to run the tutorial
 
 This tutorial's goal is to provide a wide introduction to the Pangeo ecosystem. 
@@ -77,7 +111,7 @@ It is a really cool service offered for free by several organisations (MyBinder 
 It is probably the easiest way to execute notebooks in this repository, as you only have to do one click to arrive in a Jupyterlab with all the necessary libraries.
 However, the hardware resources of the public BinderHub are quite small, so you will not be able to grasp the full potential of the Pangeo software stack, and parts of the notebooks will be unavailable.
 
-All the notebooks on the PANGEO 101 section, for example ["Handling multi-dimensional arrays with xarray"](../pangeo101/xarray_introduction.ipynb) have a rocket icon 🚀 at the top, from which you can select the Binder button to just run this notebook on the [GESIS Binder service](https://notebooks.gesis.org/binder/).
+All the notebooks on the PANGEO 101 section, for example ["Handling multi-dimensional arrays with xarray"](../pangeo101/xarray_introduction) have a rocket icon 🚀 at the top, from which you can select the Binder button to just run this notebook on the [GESIS Binder service](https://notebooks.gesis.org/binder/).
 
 Alternatively, you can also directly click on the below buttons:
 

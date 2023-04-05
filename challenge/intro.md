@@ -1,47 +1,26 @@
 # Welcome 👋
 
+## Reproducibility Challenge
+
+Welcome to the 2023 Climate Informatics Reproducibility Challenge!
+
+![](figures/splash-reproducibility-challenge.png)
+
+## Objectives
+This year's challenge aims to build community, facilitate collaboration, and advance open science within the Climate Informatics community, continuing the tradition of an annual Climate Informatics conference-associated hackathon whilst drawing inspiration from [The ML Reproducibility Challenge](https://twitter.com/repro_challenge?lang=en).
+
+## Overview
+In this year's challenge, teams of 2-4 will collaborate to create a notebook which reproduces the key contributions of a published environmental data science paper for eventual integration in the open-source [Environmental Data Science (EDS) Book](https://edsbook.org/). Over the course of a month, teams will locate the data and code associated with their chosen paper; train, validate, and test the models used in the paper; visualise key results from these experiments; discuss their work with peer reviewer(s); and ultimately weave together a narrative illuminating the value of open science which culminates in a citeable, DOI-tagged notebook. Teams will further have the opportunity to network and exchange technical Q&A with fellow participants in weekly drop-in socials throughout the competition. Check out [this notebook](https://edsbook.org/notebooks/gallery/ac327c3a-5264-40a2-8c6e-1e8d7c4b37ef/notebook.html) in the EDS book which reproduces [IceNet (Andersson, 2021)](https://doi.org/10.1038/s41467-021-25257-4) for an example of what you'll be working towards!
+
+## Cloud infrastructure
+
+To facilitate the reproducibility of papers, a cloud infrastructure with a [Pangeo](https://pangeo.io/) Machine Learning jupyterhub is being made available (registration to this service is required and free) by the [European Open Science Cloud (EOSC)](https://eosc-portal.eu).
+
+**Information about access to the JupyterHub can be found [here](before/setup).** 
+
+
 :::{tip}
 The computing and storage resources used for this workshop have been kindly provided by the [C-SCALE](https://c-scale.eu) project that provides advanced Computing for [EOSC](https://eosc-portal.eu/about/eosc).
-:::
-
-## Infrastructure
-
-## The European Open Science Cloud (EOSC)
-
-![EOSC logo](./figures/EOSC_logo-small.png)
-
-The [European Open Science Cloud (EOSC)](https://eosc-portal.eu/about/eosc) aims at becoming the main environment for hosting and processing research data to support European Science. 
-
-The ambition of EOSC is to have a **federated** and **open multi-disciplinary** environment where you can publish, find and re-use data, tools and services for research, innovation and educational purposes. 
-There is not one unique cloud provider offering all the EOSC compute and storage resources: an [onboarding process](https://eosc-portal.eu/providers-documentation/eosc-provider-portal-basic-guide) has been defined to allow new resource providers to register their services to EOSC.
-
-EOSC is still under development and it is often difficult to understand what is made available to you or what will be made available. 
-On the other hand, as a researcher, innovator, company or citizen you can contribute to build it, for instance by providing feedback on the available tools and services. 
-
-EOSC is run as a [co-programmed European Partnership under Horizon Europe from 2021](https://ec.europa.eu/info/horizon-europe/european-partnerships-horizon-europe/candidates-across-themes_en). [Horizon Europe](https://ec.europa.eu/info/horizon-europe_en) is the European Commission's research and innovation funding programme (started in 2021 and succeeding the Horizon 2020 European programme).
-
-## Pangeo Europe 
-
-<img src="https://github.com/eds-book/reproducibility-challenge-2023/raw/main/challenge/figures/pangeo_name_logo.png" width="180" align="Left" /></a>
-
-[Pangeo](https://pangeo.io/) is a worldwide community for Big Data geoscience promoting open, reproducible, and scalable science. 
-
-[Pangeo Europe](https://pangeo.io/meeting-notes.html) aims at highlighting European contributions to the Pangeo Community and at providing a reference deployment for Pangeo on EOSC. 
-The Pangeo deployment on EOSC has been made possible thanks to the [C-SCALE](https://c-scale.eu) project through their Open Call.
-
-## C-SCALE
-
-<img src="https://github.com/eds-book/reproducibility-challenge-2023/raw/main/challenge/figures/logo-c-scale-vertical-blue.png" width="180" align="Left" /></a>
-
-### Vision
-
-C-SCALE serves European researchers, institutions and initiatives by making Copernicus data, tools, resources and services easier to discover, access and share.
-
-### Mission
-
-The C-SCALE project will enhance EOSC Portal with pan-European federated data and computing infrastructure services for Copernicus.
-
-### Funding for C-SCALE project
 
 <table>
   <tr>
@@ -50,3 +29,27 @@ The C-SCALE project will enhance EOSC Portal with pan-European federated data an
   </tr>
 </table>
 
+:::
+
+
+## Summary
+Too long; didn’t read? Here is the TL;DR on the 2023 Climate Informatics Reproducibility Challenge:
+- Teams of 2-4
+- free Pangeo ML jupyterhub available on EOSC C-SCALE cloud infrastructure 
+- Reproducing a pre-approved environmental data science or participant-suggested paper as a notebook
+- Submissions to be judged after one month
+- Winning team to receive Cambridge University Press book of their choosing (up to £500 in value split across the winning team) 
+- Authorship on a citeable, DOI-tagged notebook to be integrated within the [Environmental Data Science (EDS) Book](https://edsbook.org/)
+- Great networking and community-building opportunity
+
+
+## Organising Committee
+The 2023 Climate Informatics Reproducibility Challenge Organising Committee warmly welcomes your participation.
+- [Andrew McDonald, University of Cambridge and British Antarctic Survey](https://ampersandmcd.com/)
+- [Alejandro Coca-Castro, The Alan Turing Institute](https://acocac.github.io/en/)
+- [Anne Fouilloux, Simula Research Laboratory](https://annefou.github.io/)
+- [Andrew Hyde, Cambridge University Press](https://twitter.com/andrewchyde?lang=en)
+
+## Contact
+Please direct any questions to Andrew McDonald at [arm99@cam.ac.uk](arm99@cam.ac.uk). 
+Follow us on Twitter [@Climformatics](https://twitter.com/Climformatics) for updates as the conference and competition approaches!
