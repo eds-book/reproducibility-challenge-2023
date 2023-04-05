@@ -26,7 +26,7 @@ The computing and storage resources used for this workshop have been kindly prov
   <tr>
    <th><img src="https://github.com/eds-book/reproducibility-challenge-2023/raw/main/challenge/figures/logo-c-scale-vertical-blue.png" width="180" align="Left" /></th>
    <th>The <a href="https://c-scale.eu/">C-SCALE project (Copernicus – eoSC AnaLytics Engine)</a> has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 101017529.</th>
-   <th><img src="https://raw.githubusercontent.com/sebastian-luna-valero/reproducibility-challenge-2023/c-scale-ack/challenge/figures/EC-ack.jpg" width="300" align="Right" /></th>
+   <th><img src="https://raw.githubusercontent.com/eds-book/reproducibility-challenge-2023/main/challenge/figures/EC-ack.jpg" width="300" align="Right" /></th>
   </tr>
 </table>
 
