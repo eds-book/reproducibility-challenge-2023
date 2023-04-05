@@ -20,12 +20,12 @@ To facilitate the reproducibility of papers, a cloud infrastructure with a [Pang
 
 
 :::{tip}
-The computing and storage resources used for this workshop have been kindly provided by the [C-SCALE](https://c-scale.eu) project that provides advanced Computing for [EOSC](https://eosc-portal.eu/about/eosc).
+The computing and storage resources used for this workshop have been kindly provided by [CESNET](https://www.cesnet.cz/?lang=en) in the context of the [C-SCALE](https://c-scale.eu) project that provides advanced computing for [EOSC](https://eosc-portal.eu/about/eosc).
 
 <table>
   <tr>
    <th><img src="https://raw.githubusercontent.com/sebastian-luna-valero/reproducibility-challenge-2023/c-scale-ack/challenge/figures/EC-ack.jpg" width="300" align="Right" /></a></th>
-   <th>The C-SCALE project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 101017529.</th> 
+   <th>The <a href="https://c-scale.eu/">C-SCALE project (Copernicus – eoSC AnaLytics Engine)</a> has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 101017529.</th>
   </tr>
 </table>
 

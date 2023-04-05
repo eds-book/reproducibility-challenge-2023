@@ -16,21 +16,7 @@ The [European Open Science Cloud (EOSC)](https://eosc-portal.eu/about/eosc) aims
 [Pangeo Europe](https://pangeo.io/meeting-notes.html) aims at highlighting European contributions to the Pangeo Community and at providing a reference deployment for Pangeo on EOSC. 
 The Pangeo deployment on EOSC has been made possible thanks to the [C-SCALE](https://c-scale.eu) project through their Open Call.
 
-## C-SCALE
-
-<img src="https://github.com/eds-book/reproducibility-challenge-2023/raw/main/challenge/figures/logo-c-scale-vertical-blue.png" width="180" align="Left" /></a>
-
-### Vision
-
-C-SCALE serves European researchers, institutions and initiatives by making Copernicus data, tools, resources and services easier to discover, access and share.
-
-### Mission
-
-The C-SCALE project will enhance EOSC Portal with pan-European federated data and computing infrastructure services for Copernicus.
-
-### Funding for C-SCALE project
-
-
+<img src="https://github.com/eds-book/reproducibility-challenge-2023/raw/main/challenge/figures/logo-c-scale-vertical-blue.png" width="180" align="Left" />
 
 # Setup: how to run the tutorial
 
