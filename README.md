@@ -4,7 +4,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-This repository contains the documentation and jupyter notebooks used for delivering [the 2023 Climate Informatics Reproducibility Challenge](https://eds-book.github.io/reproducibility-challenge-2023).
+This repository contains the documentation and jupyter notebooks used for delivering [the 2023 Climate Informatics Reproducibility Challenge](https://cambridge-iccs.github.io/climate-informatics-2023/reproducibility-challenge).
 
 <img src="challenge/figures/pangeo_logo.png" width="180" align="Left" />
 <img src="challenge/figures/logo-c-scale-vertical-blue.png" width="180" align="Right" />
