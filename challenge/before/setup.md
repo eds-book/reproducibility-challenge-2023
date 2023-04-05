@@ -14,7 +14,7 @@ The [European Open Science Cloud (EOSC)](https://eosc-portal.eu/about/eosc) aims
 [Pangeo](https://pangeo.io/) is a worldwide community for Big Data geoscience promoting open, reproducible, and scalable science. 
 
 [Pangeo Europe](https://pangeo.io/meeting-notes.html) aims at highlighting European contributions to the Pangeo Community and at providing a reference deployment for Pangeo on EOSC. 
-The Pangeo deployment on EOSC has been made possible thanks to the [C-SCALE](https://c-scale.eu) project through their Open Call.
+The Pangeo deployment on EOSC has been made possible thanks to [CESNET](https://www.cesnet.cz/?lang=en) in the context of the [C-SCALE](https://c-scale.eu) project.
 
 ## C-SCALE
 
