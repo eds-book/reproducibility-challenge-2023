@@ -4,19 +4,10 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+This repository contains the documentation and jupyter notebooks used for delivering [the 2023 Climate Informatics Reproducibility Challenge](https://eds-book.github.io/reproducibility-challenge-2023).
 
-## Cloud infrastructure
-
-<img src="challenge/figures/pangeo_logo.png" width="180" align="Left" /></a>
-<img src="challenge/figures/logo-c-scale-vertical-blue.png" width="180" align="Right" /></a>
-
-<table>
-  <tr>
-   <th><img src="challenge/figures/EC-ack.jpg" width="300" align="Right" /></a></th>
-   <th>The computing and storage resources used for this workshop have been kindly provided by <a href="https://www.cesnet.cz/?lang=en">CESNET</a> in the context of the <a href="https://c-scale.eu">C-SCALE</a> project that provides advanced computing for <a href="https://eosc-portal.eu/about/eosc">EOSC</a>). The C-SCALE project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 101017529.</th>
-  </tr>
-</table>
-
+<img src="challenge/figures/pangeo_logo.png" width="180" align="Left" />
+<img src="challenge/figures/logo-c-scale-vertical-blue.png" width="180" align="Right" />
 
 <br>
 
