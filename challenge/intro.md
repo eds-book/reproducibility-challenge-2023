@@ -24,7 +24,7 @@ The computing and storage resources used for this workshop have been kindly prov
 
 <table>
   <tr>
-   <th><img src="https://github.com/eds-book/reproducibility-challenge-2023/raw/main/challenge/figures/normal-reproduction-low-resolution.png" width="180" align="Right" /></a></th>
+   <th><img src="https://github.com/eds-book/reproducibility-challenge-2023/raw/main/challenge/figures/EC-ack.jpg" width="180" align="Right" /></a></th>
    <th>The C-SCALE project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 101017529.</th> 
   </tr>
 </table>
