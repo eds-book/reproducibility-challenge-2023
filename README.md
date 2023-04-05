@@ -12,7 +12,7 @@
 
 <table>
   <tr>
-   <th><img src="challenge/figures/EC-ack.jpg" width="200" align="Right" /></a></th>
+   <th><img src="challenge/figures/EC-ack.jpg" width="250" align="Right" /></a></th>
    <th>This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 101017529.</th> 
   </tr>
 </table>
