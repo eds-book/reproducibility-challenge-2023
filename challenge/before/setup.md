@@ -14,23 +14,13 @@ The [European Open Science Cloud (EOSC)](https://eosc-portal.eu/about/eosc) aims
 [Pangeo](https://pangeo.io/) is a worldwide community for Big Data geoscience promoting open, reproducible, and scalable science. 
 
 [Pangeo Europe](https://pangeo.io/meeting-notes.html) aims at highlighting European contributions to the Pangeo Community and at providing a reference deployment for Pangeo on EOSC. 
-The Pangeo deployment on EOSC has been made possible thanks to the [C-SCALE](https://c-scale.eu) project through their Open Call.
+The Pangeo deployment on EOSC has been made possible thanks to [CESNET](https://www.cesnet.cz/?lang=en) in the context of the [C-SCALE](https://c-scale.eu) project.
 
 ## C-SCALE
 
-<img src="https://github.com/eds-book/reproducibility-challenge-2023/raw/main/challenge/figures/logo-c-scale-vertical-blue.png" width="180" align="Left" /></a>
+<img src="https://github.com/eds-book/reproducibility-challenge-2023/raw/main/challenge/figures/logo-c-scale-vertical-blue.png" width="180" align="Left" />
 
-### Vision
-
-C-SCALE serves European researchers, institutions and initiatives by making Copernicus data, tools, resources and services easier to discover, access and share.
-
-### Mission
-
-The C-SCALE project will enhance EOSC Portal with pan-European federated data and computing infrastructure services for Copernicus.
-
-### Funding for C-SCALE project
-
-
+The H2020 [Copernicus-eoSC Analytics Engine (C-SCALE)](https://c-scale.eu) project provides European researchers with a federated Earth Observation (EO) data analytics platform by leveraging the best-of-breed tools and services of pan-European e-infrastructures. C-SCALE delivers a seamless user experience by abstracting away the complexity of resource provisioning and orchestration. The project offers three main services: the Federated Earth System Simulation and Data Processing Platform (FedEarthData), the Earth Observation Metadata Query Service (EO-MQS), and the openEO Platform service. [FedEarthData](https://c-scale.eu/fedearthdata/) provides a distributed infrastructure of data and compute providers to support the execution of EO workflows at scale, while the [EO-MQS](https://c-scale.eu/eo-mqs/) makes Copernicus data distributed across partners discoverable and searchable. Finally, the [openEO platform](https://c-scale.eu/openeo-platform/) simplifies processing and data management by offering intuitive programming libraries alongside a large EO data repository.
 
 # Setup: how to run the tutorial
 
