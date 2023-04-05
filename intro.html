@@ -162,7 +162,8 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Before the Reproducibility Challenge</span></p>
 <ul class="nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="before/setup.html">Setup: how to run the tutorial</a></li>
+<li class="toctree-l1"><a class="reference internal" href="before/setup.html">Access to cloud computing and storage resources</a></li>
+
 </ul>
 
     </div>
@@ -356,15 +357,13 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#infrastructure">Infrastructure</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-european-open-science-cloud-eosc">The European Open Science Cloud (EOSC)</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#pangeo-europe">Pangeo Europe</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#c-scale">C-SCALE</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#vision">Vision</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#mission">Mission</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#funding-for-c-scale-project">Funding for C-SCALE project</a></li>
-</ul>
-</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#reproducibility-challenge">Reproducibility Challenge</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#objectives">Objectives</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#overview">Overview</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#cloud-infrastructure">Cloud infrastructure</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#summary">Summary</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#organising-committee">Organising Committee</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#contact">Contact</a></li>
 </ul>
             </nav>
         </div>
@@ -378,50 +377,61 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="welcome">
 <h1>Welcome 👋<a class="headerlink" href="#welcome" title="Permalink to this headline">#</a></h1>
+<section id="reproducibility-challenge">
+<h2>Reproducibility Challenge<a class="headerlink" href="#reproducibility-challenge" title="Permalink to this headline">#</a></h2>
+<p>Welcome to the 2023 Climate Informatics Reproducibility Challenge!</p>
+<p><img alt="" src="_images/splash-reproducibility-challenge.png" /></p>
+</section>
+<section id="objectives">
+<h2>Objectives<a class="headerlink" href="#objectives" title="Permalink to this headline">#</a></h2>
+<p>This year’s challenge aims to build community, facilitate collaboration, and advance open science within the Climate Informatics community, continuing the tradition of an annual Climate Informatics conference-associated hackathon whilst drawing inspiration from <a class="reference external" href="https://twitter.com/repro_challenge?lang=en">The ML Reproducibility Challenge</a>.</p>
+</section>
+<section id="overview">
+<h2>Overview<a class="headerlink" href="#overview" title="Permalink to this headline">#</a></h2>
+<p>In this year’s challenge, teams of 2-4 will collaborate to create a notebook which reproduces the key contributions of a published environmental data science paper for eventual integration in the open-source <a class="reference external" href="https://edsbook.org/">Environmental Data Science (EDS) Book</a>. Over the course of a month, teams will locate the data and code associated with their chosen paper; train, validate, and test the models used in the paper; visualise key results from these experiments; discuss their work with peer reviewer(s); and ultimately weave together a narrative illuminating the value of open science which culminates in a citeable, DOI-tagged notebook. Teams will further have the opportunity to network and exchange technical Q&amp;A with fellow participants in weekly drop-in socials throughout the competition. Check out <a class="reference external" href="https://edsbook.org/notebooks/gallery/ac327c3a-5264-40a2-8c6e-1e8d7c4b37ef/notebook.html">this notebook</a> in the EDS book which reproduces <a class="reference external" href="https://doi.org/10.1038/s41467-021-25257-4">IceNet (Andersson, 2021)</a> for an example of what you’ll be working towards!</p>
+</section>
+<section id="cloud-infrastructure">
+<h2>Cloud infrastructure<a class="headerlink" href="#cloud-infrastructure" title="Permalink to this headline">#</a></h2>
+<p>To facilitate the reproducibility of papers, a cloud infrastructure with a <a class="reference external" href="https://pangeo.io/">Pangeo</a> Machine Learning jupyterhub is being made available (registration to this service is required and free) by the <a class="reference external" href="https://eosc-portal.eu">European Open Science Cloud (EOSC)</a>.</p>
+<p><strong>Information about access to the JupyterHub can be found <a class="reference internal" href="before/setup.html"><span class="doc std std-doc">here</span></a>.</strong></p>
 <div class="admonition tip">
 <p class="admonition-title">Tip</p>
 <p>The computing and storage resources used for this workshop have been kindly provided by the <a class="reference external" href="https://c-scale.eu">C-SCALE</a> project that provides advanced Computing for <a class="reference external" href="https://eosc-portal.eu/about/eosc">EOSC</a>.</p>
-</div>
-<section id="infrastructure">
-<h2>Infrastructure<a class="headerlink" href="#infrastructure" title="Permalink to this headline">#</a></h2>
-</section>
-<section id="the-european-open-science-cloud-eosc">
-<h2>The European Open Science Cloud (EOSC)<a class="headerlink" href="#the-european-open-science-cloud-eosc" title="Permalink to this headline">#</a></h2>
-<p><img alt="EOSC logo" src="_images/EOSC_logo-small.png" /></p>
-<p>The <a class="reference external" href="https://eosc-portal.eu/about/eosc">European Open Science Cloud (EOSC)</a> aims at becoming the main environment for hosting and processing research data to support European Science.</p>
-<p>The ambition of EOSC is to have a <strong>federated</strong> and <strong>open multi-disciplinary</strong> environment where you can publish, find and re-use data, tools and services for research, innovation and educational purposes.
-There is not one unique cloud provider offering all the EOSC compute and storage resources: an <a class="reference external" href="https://eosc-portal.eu/providers-documentation/eosc-provider-portal-basic-guide">onboarding process</a> has been defined to allow new resource providers to register their services to EOSC.</p>
-<p>EOSC is still under development and it is often difficult to understand what is made available to you or what will be made available.
-On the other hand, as a researcher, innovator, company or citizen you can contribute to build it, for instance by providing feedback on the available tools and services.</p>
-<p>EOSC is run as a <a class="reference external" href="https://ec.europa.eu/info/horizon-europe/european-partnerships-horizon-europe/candidates-across-themes_en">co-programmed European Partnership under Horizon Europe from 2021</a>. <a class="reference external" href="https://ec.europa.eu/info/horizon-europe_en">Horizon Europe</a> is the European Commission’s research and innovation funding programme (started in 2021 and succeeding the Horizon 2020 European programme).</p>
-</section>
-<section id="pangeo-europe">
-<h2>Pangeo Europe<a class="headerlink" href="#pangeo-europe" title="Permalink to this headline">#</a></h2>
-<p><img src="https://github.com/eds-book/reproducibility-challenge-2023/raw/main/challenge/figures/pangeo_name_logo.png" width="180" align="Left" /></a></p>
-<p><a class="reference external" href="https://pangeo.io/">Pangeo</a> is a worldwide community for Big Data geoscience promoting open, reproducible, and scalable science.</p>
-<p><a class="reference external" href="https://pangeo.io/meeting-notes.html">Pangeo Europe</a> aims at highlighting European contributions to the Pangeo Community and at providing a reference deployment for Pangeo on EOSC.
-The Pangeo deployment on EOSC has been made possible thanks to the <a class="reference external" href="https://c-scale.eu">C-SCALE</a> project through their Open Call.</p>
-</section>
-<section id="c-scale">
-<h2>C-SCALE<a class="headerlink" href="#c-scale" title="Permalink to this headline">#</a></h2>
-<p><img src="https://github.com/eds-book/reproducibility-challenge-2023/raw/main/challenge/figures/logo-c-scale-vertical-blue.png" width="180" align="Left" /></a></p>
-<section id="vision">
-<h3>Vision<a class="headerlink" href="#vision" title="Permalink to this headline">#</a></h3>
-<p>C-SCALE serves European researchers, institutions and initiatives by making Copernicus data, tools, resources and services easier to discover, access and share.</p>
-</section>
-<section id="mission">
-<h3>Mission<a class="headerlink" href="#mission" title="Permalink to this headline">#</a></h3>
-<p>The C-SCALE project will enhance EOSC Portal with pan-European federated data and computing infrastructure services for Copernicus.</p>
-</section>
-<section id="funding-for-c-scale-project">
-<h3>Funding for C-SCALE project<a class="headerlink" href="#funding-for-c-scale-project" title="Permalink to this headline">#</a></h3>
 <table>
   <tr>
    <th><img src="https://github.com/eds-book/reproducibility-challenge-2023/raw/main/challenge/figures/normal-reproduction-low-resolution.png" width="180" align="Right" /></a></th>
    <th>The C-SCALE project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 101017529.</th> 
   </tr>
 </table>
+</div>
 </section>
+<section id="summary">
+<h2>Summary<a class="headerlink" href="#summary" title="Permalink to this headline">#</a></h2>
+<p>Too long; didn’t read? Here is the TL;DR on the 2023 Climate Informatics Reproducibility Challenge:</p>
+<ul class="simple">
+<li><p>Teams of 2-4</p></li>
+<li><p>free Pangeo ML jupyterhub available on EOSC C-SCALE cloud infrastructure</p></li>
+<li><p>Reproducing a pre-approved environmental data science or participant-suggested paper as a notebook</p></li>
+<li><p>Submissions to be judged after one month</p></li>
+<li><p>Winning team to receive Cambridge University Press book of their choosing (up to £500 in value split across the winning team)</p></li>
+<li><p>Authorship on a citeable, DOI-tagged notebook to be integrated within the <a class="reference external" href="https://edsbook.org/">Environmental Data Science (EDS) Book</a></p></li>
+<li><p>Great networking and community-building opportunity</p></li>
+</ul>
+</section>
+<section id="organising-committee">
+<h2>Organising Committee<a class="headerlink" href="#organising-committee" title="Permalink to this headline">#</a></h2>
+<p>The 2023 Climate Informatics Reproducibility Challenge Organising Committee warmly welcomes your participation.</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://ampersandmcd.com/">Andrew McDonald, University of Cambridge and British Antarctic Survey</a></p></li>
+<li><p><a class="reference external" href="https://acocac.github.io/en/">Alejandro Coca-Castro, The Alan Turing Institute</a></p></li>
+<li><p><a class="reference external" href="https://annefou.github.io/">Anne Fouilloux, Simula Research Laboratory</a></p></li>
+<li><p><a class="reference external" href="https://twitter.com/andrewchyde?lang=en">Andrew Hyde, Cambridge University Press</a></p></li>
+</ul>
+</section>
+<section id="contact">
+<h2>Contact<a class="headerlink" href="#contact" title="Permalink to this headline">#</a></h2>
+<p>Please direct any questions to Andrew McDonald at <span class="xref myst">arm99&#64;cam.ac.uk</span>.
+Follow us on Twitter <a class="reference external" href="https://twitter.com/Climformatics">&#64;Climformatics</a> for updates as the conference and competition approaches!</p>
 </section>
 <div class="toctree-wrapper compound">
 </div>
@@ -487,15 +497,13 @@ The Pangeo deployment on EOSC has been made possible thanks to the <a class="ref
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#infrastructure">Infrastructure</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-european-open-science-cloud-eosc">The European Open Science Cloud (EOSC)</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#pangeo-europe">Pangeo Europe</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#c-scale">C-SCALE</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#vision">Vision</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#mission">Mission</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#funding-for-c-scale-project">Funding for C-SCALE project</a></li>
-</ul>
-</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#reproducibility-challenge">Reproducibility Challenge</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#objectives">Objectives</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#overview">Overview</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#cloud-infrastructure">Cloud infrastructure</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#summary">Summary</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#organising-committee">Organising Committee</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#contact">Contact</a></li>
 </ul>
   </nav></div>
 
