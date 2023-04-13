@@ -5,9 +5,14 @@ format: jb-book
 root: intro
 parts:
 - caption: About
+- caption: Details
   chapters:
-  - file: about/timeline
-    title: Reproducibility Challenge timeline
+  - file: details/timeline
+    title: Timeline
+  - file: details/application
+    title: Application
+  - file: details/judging
+    title: Judging
 
 - caption: Before the Reproducibility Challenge
   chapters:
