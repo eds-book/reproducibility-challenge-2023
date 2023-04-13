@@ -32,7 +32,7 @@ The H2020 [Copernicus-eoSC Analytics Engine (C-SCALE)](https://c-scale.eu) proje
 
 To facilitate the reproducibility of the papers, CI2023 reproducibility challenge provides you with a ready-to-use JupyterHub with 3 flavors: 
 - Pangeo Notebook;
-- Machine Learning Pangeo nobteook;
+- Machine Learning Pangeo notebook;
 - Datascience Notebook with Python, R and Julia.
 
 We will give more details about these 3 flavors but first, let's go through the registration process.
