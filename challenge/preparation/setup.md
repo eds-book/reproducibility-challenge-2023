@@ -44,7 +44,7 @@ We recommend using the EOSC/CESNET infrastructure (called later Cloud EGI Jupyte
 ### Registration
 
 
-First, as early as possible (ideally before the start of the CI2023 reproducibility challenge), all the participants will have to create an EGI account and enroll to the the Virtual Organisations to have access to Cloud EGI JupyterHub.
+First, as early as possible (ideally before the start of the CI2023 reproducibility challenge), all the participants will have to create an EGI account and enroll to the `vo.pangeo.eu` Virtual Organisation to have access to Cloud EGI JupyterHub.
 
 There are several steps to follow:
 
