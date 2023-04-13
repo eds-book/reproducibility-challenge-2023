@@ -13,6 +13,10 @@ parts:
     title: Application
   - file: details/judging
     title: Judging
+  - file: details/incentives
+    title: Incentives
+  - file: details/team
+    title: Team
 
 - caption: Before the Reproducibility Challenge
   chapters:
