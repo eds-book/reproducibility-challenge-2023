@@ -81,7 +81,7 @@ From there, you can open and execute any notebooks used during the workshop, enj
 
 
 :::{note}
-After the CI2023 reproducibility challenge, you can continue to use the resources to finalize the Jupyter Notebook to be published in the [EDS Book](https://edsbook.org), but note that we would probably modify the service and things might not work from time to time. The link (web address) to the Cloud EGI JupyterHub may change too. **Therefore, we recommend you to copy all the necxessary files before; for instance in the Github repository set up for reproducing your paper**.
+After the CI2023 reproducibility challenge, you can continue to use the resources to finalize the Jupyter Notebook to be published in the [EDS Book](https://edsbook.org), but note that we would probably modify the service and things might not work from time to time. The link (web address) to the Cloud EGI JupyterHub may change too. **Therefore, we recommend you to copy all the necessary files before; for instance in the Github repository set up for reproducing your paper**.
 We would appreciate you get in touch with us to give us some feedback and be informed of the platform evolution. You can do this through [Github Discussions](https://github.com/eds-book/reproducibility-challenge-2023/discussions).
 
 You can also contribute to "the Pangeo show and tell" online meetups.
