@@ -4,11 +4,11 @@
 format: jb-book
 root: intro
 parts:
-- caption: About
+- caption: Details
   chapters:
-  - file: about/timeline
-    title: Reproducibility Challenge timeline
+  - file: details/application
 
-- caption: Before the Reproducibility Challenge
+- caption: Preparation
   chapters:
-  - file: before/setup
+    - file: preparation/aai
+    - file: preparation/setup
