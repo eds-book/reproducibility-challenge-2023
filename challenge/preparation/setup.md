@@ -48,8 +48,8 @@ First, as early as possible (ideally before the start of the CI2023 reproducibil
 
 There are several steps to follow:
 
-3. Sign up for an EGI account on the **development instance** of EGI Check-In, clicking on: [https://aai-dev.egi.eu/registry/co_petitions/start/coef:2](https://aai-dev.egi.eu/registry/co_petitions/start/coef:2). **Use your [ORCID iD](https://orcid.org/) account to authenticate.**
-4. **Enroll** in the “vo.pangeo.eu” Virtual Organisation by clicking on: [https://aai-dev.egi.eu/registry/co_petitions/start/coef:290](https://aai-dev.egi.eu/registry/co_petitions/start/coef:290). Review and click on “Submit”. Once your enrollment has been validated you will have access to [https://repro-challenge.vm.fedcloud.eu/](https://repro-challenge.vm.fedcloud.eu/) (it requires you to authenticate using EGI Check-in credentials e.g. your ORCID iD). 
+1. Sign up for an EGI account on the **development instance** of EGI Check-In, clicking on: [https://aai-dev.egi.eu/registry/co_petitions/start/coef:2](https://aai-dev.egi.eu/registry/co_petitions/start/coef:2). **Use your [ORCID iD](https://orcid.org/) account to authenticate.**
+2. **Enroll** in the “vo.pangeo.eu” Virtual Organisation by clicking on: [https://aai-dev.egi.eu/registry/co_petitions/start/coef:290](https://aai-dev.egi.eu/registry/co_petitions/start/coef:290). Review and click on “Submit”. Once your enrollment has been validated you will have access to [https://repro-challenge.vm.fedcloud.eu/](https://repro-challenge.vm.fedcloud.eu/) (it requires you to authenticate using EGI Check-in credentials e.g. your ORCID iD). 
 
 
 :::{note}
