@@ -22,7 +22,10 @@ We present below a list of resources suggested to help strengthen your coding sk
 - [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/). For novice programmers to write modular code and covers best practices for using R for data analysis
 
 ### Julia
-- [JuliaEO 2023](https://aircentre.github.io/JuliaEO/). Global Workshop on Earth Observation with Julia organised by AirCentre
+- [JuliaEO 2023- AirCentre](https://aircentre.github.io/JuliaEO/). Global Workshop on Earth Observation with Julia
+- [Julia Programming: A Hands-On Tutorial -  Martín D. Maas](https://www.matecdev.com/posts/julia-tutorial-science-engineering.html). Introductory material about Julia, focusing on its use in Science and Engineering
+- [From zero to Julia! - Aurelio Amerio](https://techytok.com/from-zero-to-julia/). An expanding series of short tutorials about Julia, starting from the beginner level and going up to deal with the more advanced topics
+- [Julia language: a concise tutorial -Antonello Lobianco](https://syl1.gitbook.io/julia-language-a-concise-tutorial/). A basic introduction that includes the main packages
 
 ### Cross-languages (Python, R and/or Julia)
 * [CU EarthLab's Earth Data Science](https://www.earthdatascience.org/). Provide resources to access and work with data using R and Python and to setup R and Python environments
@@ -31,7 +34,8 @@ We present below a list of resources suggested to help strengthen your coding sk
 We list below some communities developing and maintaining Open source scientific software. 
 
 ### Python
-- [Pangeo](https://pangeo.io/). Scalable tools and infrastructure for big geosciences data
+- [Pangeo](https://pangeo.io/). Scalable tools designed to work together for big geosciences data access, processing and analysis.
+- [HoloViz](https://holoviz.org/). Tools designed to work together to solve the entire problem of visualization, from conducting exploratory data analysis to deploying complex dashboards.
 
 ### R
 - [rspatial](https://github.com/rspatial): Tools for spatial data analysis. 
