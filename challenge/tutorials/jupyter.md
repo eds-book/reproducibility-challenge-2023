@@ -1,11 +1,13 @@
 (tutorials-jupyter)=
 
 # Project Jupyter
+
 [Project Jupyter](https://jupyter.org/) encompasses a wide range of tools (including Jupyter Notebooks, JupyterHub, and JupyterLab, among others) for interactive computing across all programming languages. 
 
 We present below the relevant Jupyter technologies for the Reproducibility challenge.
 
 ## JupyterHub
+
 JupyterHub is a multi-user server for Jupyter notebooks. 
 It allows multiple users to access Jupyter notebooks through a web browser. 
 
@@ -29,6 +31,7 @@ Here's a general overview of how to use cloud EGI JupyterHub:
 * **Shut down JupyterHub:** When you're done using JupyterHub, you can shut it down by stopping the server process.
 
 ## Jupyter Notebook
+
 Jupyter Notebook is an open-source web application that allows users to create and share documents that contain live code, equations, visualizations, and narrative text. 
 
 In the reproducibility challenge, notebooks will be use to share and evaluate the reproduction process. The main highlights as follows:
@@ -45,8 +48,3 @@ Here's a general overview of how to use Jupyter Notebook within the cloud EGI Ju
 * **Write code:** You can write code in the code cells of your notebook. To execute a code cell, you can either click the "Run" button in the toolbar or press "Shift+Enter".
 * **Add text and equations:** You can add text and equations to your notebook using Markdown. Markdown is a lightweight markup language that allows you to format text, create headings, and add links and images. To add an equation, you can use LaTeX syntax.
 * **Save and share your notebook:** Once you have created your notebook, you can save it by clicking the "Save" button in the toolbar. You can also download your notebook as a PDF, HTML, or Markdown file. To share your notebook with others, you can upload it to GitHub or share it on nbviewer.
-
-
-
-
-

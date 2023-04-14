@@ -17,6 +17,7 @@ Here's a general overview of how to use GitHub:
 * **Collaborate with others:** GitHub is great for collaborating with others on projects. You can invite others to contribute to your repository by adding them as collaborators. You can also fork other people's repositories to create your own version of their code.
 
 ## Resources
+
 Here are a list of resources to get more advanced features and workflows that you can use, such as branching and merging, pull requests, and issues. 
 
 * [CarpentryCon 2022: Skill-up - Using GitHub for Collaboration in Open Source Communities](https://youtu.be/Vcckl-2dASM?t=5915): In this recording The Turing Way Community introduces participants to using GitHub as a tool to support collaborative documentation-writing and knowledge sharing

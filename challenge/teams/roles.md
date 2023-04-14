@@ -1,5 +1,6 @@
-# Team roles and responsability
+(teams-roles)=
 
+# Team roles and responsability
 
 Each team is free to organise itself but we recommend to consider the following roles and responsability to ensure a fruitful and fun reproducibility challenge experience:
 

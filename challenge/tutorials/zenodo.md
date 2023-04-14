@@ -2,7 +2,7 @@
 
 # Zenodo
 
-Zenodo is a research data repository that allows researchers to share and preserve their research outputs, including data, code, and publications. 
+Zenodo is a resesarch data repository that allows researchers to share and preserve their research outputs, including data, code, and publications. 
 It is operated by CERN, the European Organization for Nuclear Research, and is free to use for researchers and institutions.
 
 Zenodo allows researchers to upload their research outputs and assign them a Digital Object Identifier (DOI), which provides a persistent identifier that can be used to cite the research.
@@ -12,4 +12,3 @@ In the context of the CI2023 reproducibility challenge, Zenodo should be used as
 Participants can create a Zenodo record for share any data used or pretrained models used in the reproduction process, making it easy for others to reproduce the results.
 
 Using Zenodo can help ensure that the reproduction process is transparent and accessible to others, and can help promote best practices for reproducibility.
-

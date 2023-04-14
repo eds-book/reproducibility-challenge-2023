@@ -11,6 +11,7 @@ We provide further information of the key stages, requirements and registration 
 ## Information for teams
 
 ### Stages
+
 We provide below the key stages participants will get involved:
 
 * **Registration and teams formation:** Participants should fill a registration form for the challenge and indicate the study they will be reproducing, programming proficiency and other relevant skills. After the registration deadline, the Organising Committee will mediate team formation and assign team members based on paper preferences and skills.
@@ -35,6 +36,7 @@ Participants are welcome to follow tips below for a successful experience in the
 :::
 
 ### Application form
+
 Registration is now open at this [link](https://forms.gle/ixRizjFYP3BxycEfA) through 28 April @ 23:59 AOE.
 
 In the application form, we encourage participants to select one of two tracks:
@@ -43,6 +45,7 @@ In the application form, we encourage participants to select one of two tracks:
 * Participant-Suggested Paper Track: Suggest a paper to reproduce, subject to approval by the Organising Committee. This mechanism is designed to ensure teams choose papers which are realistic to reproduce in a month.
 
 ## Information for reviewers
+
 The role of a reviewer is to sharpen the submission and ensure it is ready for publication in the EDS book following the competition. 
 Reviewers should assess the accuracy, completeness, and clarity of their reproduction process and findings. 
 Here is some information for reviewers:
@@ -57,6 +60,7 @@ Here is some information for reviewers:
 It is important for reviewers to be objective and impartial, and to provide constructive feedback to help participants improve their reproducibility skills. 
 
 ### Application form
+
 Registration is now open at this [link]() through 13 May @ 23:59 AOE.
 
 In the application form, we encourage reviewers to indicate areas of interest, programming proficiency and other relevant skills.
