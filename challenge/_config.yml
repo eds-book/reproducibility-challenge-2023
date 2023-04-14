@@ -5,7 +5,7 @@
 
 #######################################################################################
 # Book settings
-title                       : "2023 Climate Informatics Reproducibility Challenge" # The title of the book. Will be placed in the left navbar.
+title                       : "Climate Informatics Reproducibility Challenge" # The title of the book. Will be placed in the left navbar.
 author                      : EDS book, Climate Informatics and Cambridge University Press & Assessment  # The author of the book
 copyright                   : "2023"  # Copyright year to be placed in the footer
 logo                        : "./figures/logos-organisers.png"  # A path to the book logo
