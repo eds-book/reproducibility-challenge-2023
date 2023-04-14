@@ -8,37 +8,38 @@ We present below a list of resources suggested to help strengthen your coding sk
 ## Foundations
 
 ### Python
-* [Duke STA-663 - Colin Rundel](https://sta663-sp22.github.io/). Lecture slides & recordings, code & notebooks. Features Jupyter, git, numpy, scipy, pandas, scikit-learn...
-* [Intro to Geospatial Raster and Vector Data with Python - Carpentries](https://carpentries-incubator.github.io/geospatial-python/). Follow-along tutorials & code. Features NEON data, intro to rasters & geostats rioxarray, geopandas...
+* [Duke STA-663 - Colin Rundel](https://sta663-sp22.github.io/). Lecture slides & recordings, code & notebooks. Features Jupyter, git, numpy, scipy, pandas, scikit-learn
+* [Intro to Geospatial Raster and Vector Data with Python - Carpentries](https://carpentries-incubator.github.io/geospatial-python/). Follow-along tutorials & code. Features NEON data, intro to rasters & geostats rioxarray, geopandas
 * [Intro to Earth and Environmental Data Science- Ryan Abernathy](https://earth-env-data-science.github.io/intro.html). Intro to Python, JupyterLab, Unix, Git, some packages & workflows
-* [Scalable and Computationally Reproducible Approaches to Arctic Research - NCEAS](https://learning.nceas.ucsb.edu/2023-03-arctic/). Advanced topics in computationally reproducible research in python, including environments, docker containers, and parallel processing using tools like parsl and dask, responsible research and data management practices including data sovereignty and the CARE principles, and ethical concerns with data-intensive modeling and analysis.33
-* [Project Pythia Foundations Book](https://foundations.projectpythia.org/landing-page.html)
+* [Scalable and Computationally Reproducible Approaches to Arctic Research - NCEAS](https://learning.nceas.ucsb.edu/2023-03-arctic/). Advanced topics in computationally reproducible research in python, including environments, docker containers, and parallel processing using tools like parsl and dask, responsible research and data management practices including data sovereignty and the CARE principles, and ethical concerns with data-intensive modeling and analysis
+* [Project Pythia Foundations Book](https://foundations.projectpythia.org/landing-page.html). Learn how to navigate and  integrate the myriad packages within the Python ecosystem for the geosciences
 
 ### R
-* [Intro to Open Data Science with R - Lowndes & Horst](https://rstudio-conf-2020.github.io/r-for-excel/). Follow-along tutorials & code. Features workflows with RMarkdown, tidyverse, RStudio, GitHub...
+* [Intro to Open Data Science with R - Lowndes & Horst](https://rstudio-conf-2020.github.io/r-for-excel/). Follow-along tutorials & code. Features workflows with RMarkdown, tidyverse, RStudio, GitHub
 * [What they forgot to teach you about R - Bryan & Hester](https://rstats.wtf/). Reinforcing lessons for moderately experienced R users
-* [R for Data Science - Wickham & Grolemund.](https://r4ds.had.co.nz/) - All things tidyverse, including dates, plots, modeling, programming, RMarkdown
+* [R for Data Science - Wickham & Grolemund.](https://r4ds.had.co.nz/). All things tidyverse, including dates, plots, modeling, programming, RMarkdown
 * Online learning community/book club: [rfordatasci.com](https://www.rfordatasci.com/)
-- [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/): for novice programmers to write modular code and covers best practices for using R for data analysis
+- [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/). For novice programmers to write modular code and covers best practices for using R for data analysis
 
 ### Julia
-- [JuliaEO 2023](https://aircentre.github.io/JuliaEO/): Global Workshop on Earth Observation with Julia organised by AirCentre.
+- [JuliaEO 2023](https://aircentre.github.io/JuliaEO/). Global Workshop on Earth Observation with Julia organised by AirCentre
 
 ### Cross-languages (Python, R and/or Julia)
-* [CU EarthLab's Earth Data Science](https://www.earthdatascience.org/)
+* [CU EarthLab's Earth Data Science](https://www.earthdatascience.org/). Provide resources to access and work with data using R and Python and to setup R and Python environments
 
-## Scientific Ecosystems
+## Open Scientific Ecosystems
+We list below some communities developing and maintaining Open source scientific software. 
 
 ### Python
-- [Pangeo](https://pangeo.io/): geosciences domain. 
+- [Pangeo](https://pangeo.io/). Scalable tools and infrastructure for big geosciences data
 
 ### R
-- [rspatial](https://github.com/rspatial): geospatial domain. 
+- [rspatial](https://github.com/rspatial): Tools for spatial data analysis. 
 
-## Julia
-- [JuliaGeo](https://github.com/JuliaGeo): geospatial and geosciences domains. 
-- [JuliaClimate](https://github.com/JuliaClimate): climate science.
-- [EcoJulia](https://ecojulia.org/): ecology, biodiversity, and biogeography research 
+### Julia
+- [JuliaGeo](https://github.com/JuliaGeo): Tools for geospatial and geosciences domains. 
+- [JuliaClimate](https://github.com/JuliaClimate): Tools for climate science.
+- [EcoJulia](https://ecojulia.org/): Tools for ecology, biodiversity, and biogeography research 
 
-# Attribution
+## Attribution
 Some material in this section have been adapted from [NASA Earthdata Cloud Cookbook](https://github.com/NASA-Openscapes/earthdata-cloud-cookbook/tree/main) under a CC-BY license.
