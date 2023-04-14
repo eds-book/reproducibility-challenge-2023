@@ -20,7 +20,7 @@ Alejandro Coca-Castro
 +++
 *Affiliation:* The Alan Turing Institute
 
-*Ask me about:* Jupyter, Machine Learning, Open Environmental Science
+*Ask me about:* Environmental Science, Machine Learning, Open Science
 
 :::
 
