@@ -26,7 +26,6 @@ It is important for judges to be objective and impartial, and to provide constru
 
 ## Criteria
 Judges have two criteria categories to score submissions to ensure that the team' work is of the high quality and meets the standards of reproducible research
-TODO - how to weight to be  fair and consistent? 
 
 ### General
 Here are the general criteria to be used to score submissions:
@@ -37,7 +36,6 @@ Here are the general criteria to be used to score submissions:
 * **Reproducibility:** Did the participant follow the reproduction process as closely as possible? Were they able to reproduce the original study's results?
 * **Documentation:** Did the participant provide clear and thorough documentation of their reproduction process, including any scripts or code used?
 * **Additional insights:** Did the participant provide any additional insights or observations that were not included in the original study?
-* **Contribution to the field:** Did the participant's work contribute to the advancement of the field? Did they identify any new avenues for research or potential applications of the study's findings?
 
 ## Jupyter notebook
 Here are some technical aspects of a Jupyter Notebook that can be reviewed:
