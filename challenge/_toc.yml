@@ -6,8 +6,16 @@ root: intro
 parts:
 - caption: Details
   chapters:
+  - file: details/timeline
+    title: Timeline
   - file: details/application
-
+    title: Application
+  - file: details/judging
+    title: Judging
+  - file: details/incentives
+    title: Incentives
+  - file: details/team
+    title: Team
 - caption: Preparation
   chapters:
     - file: preparation/aai

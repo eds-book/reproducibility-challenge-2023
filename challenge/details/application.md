@@ -1,4 +1,7 @@
+(details-application)=
+
 # Application
+
 The CI2023 Reproducibility Challenge will be a virtual event held May 1-31, 2023, where teams of 2-4 will collaborate to create a Jupyter notebook which reproduces the key contributions of a published environmental data science paper for eventual integration in the open-source [Environmental Data Science (EDS) book](https://edsbook.org/). 
 
 A pool of peer reviewers consisting of original authors of pre-approved papers, reviewers for the Climate Informatics conference, and other members of the Climate Informatics and EDS book communities will begin working with participants at the two-week mark of the competition to sharpen the submission and ensure it is ready for publication in the EDS book following the competition.
