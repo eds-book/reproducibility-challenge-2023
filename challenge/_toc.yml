@@ -20,3 +20,9 @@ parts:
   chapters:
     - file: preparation/aai
     - file: preparation/setup
+- caption: Teams
+  chapters:
+  - file: teams/overview
+  - file: teams/roles
+  - file: teams/logistics
+  - file: teams/workflow
