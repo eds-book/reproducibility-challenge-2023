@@ -17,7 +17,7 @@ parts:
     title: Incentives
   - file: details/team
     title: Team
-
-- caption: Before the Reproducibility Challenge
+- caption: Preparation
   chapters:
-  - file: before/setup
+    - file: preparation/aai
+    - file: preparation/setup

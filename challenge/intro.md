@@ -16,7 +16,7 @@ In this year's challenge, teams of 2-4 will collaborate to create a notebook whi
 
 To facilitate the reproducibility of papers, a cloud infrastructure with a [Pangeo](https://pangeo.io/) Machine Learning jupyterhub is being made available (registration to this service is required and free) by the [European Open Science Cloud (EOSC)](https://eosc-portal.eu).
 
-**Information about access to the JupyterHub can be found [here](before/setup).** 
+**Information about access to the JupyterHub can be found [here](preparation/setup).** 
 
 
 :::{tip}
