@@ -1,3 +1,5 @@
+(details-timeline)=
+
 # Key dates
 
 * Challenge Registration Closes (Participants): 29 April @ 23:59 AOE
