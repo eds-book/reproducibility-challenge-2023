@@ -34,57 +34,6 @@
       ]
     },
     {
-      "login": "pl-marasco",
-      "name": "pl.marasco",
-      "avatar_url": "https://avatars.githubusercontent.com/u/22492773?v=4",
-      "profile": "https://github.com/pl-marasco",
-      "contributions": [
-        "ideas",
-        "design",
-        "code",
-        "content",
-        "doc",
-        "tutorial"
-      ]
-    },
-    {
-      "login": "tinaok",
-      "name": "Tina Odaka",
-      "avatar_url": "https://avatars.githubusercontent.com/u/46813815?v=4",
-      "profile": "https://github.com/tinaok",
-      "contributions": [
-        "ideas",
-        "design",
-        "code",
-        "content",
-        "doc",
-        "tutorial"
-      ]
-    },
-    {
-      "login": "guillaumeeb",
-      "name": "Guillaume Eynard-Bontemps",
-      "avatar_url": "https://avatars.githubusercontent.com/u/17138587?v=4",
-      "profile": "https://github.com/guillaumeeb",
-      "contributions": [
-        "ideas",
-        "review",
-        "userTesting",
-        "content",
-        "infra"
-      ]
-    },
-    {
-      "login": "j34ni",
-      "name": "j34ni",
-      "avatar_url": "https://avatars.githubusercontent.com/u/44261743?v=4",
-      "profile": "https://github.com/j34ni",
-      "contributions": [
-        "platform",
-        "infra"
-      ]
-    },
-    {
       "login": "sebastian-luna-valero",
       "name": "Sebastian Luna-Valero",
       "avatar_url": "https://avatars.githubusercontent.com/u/5345517?v=4",
@@ -94,39 +43,10 @@
         "infra"
       ]
     },
-    {
-      "login": "sustr4",
-      "name": "Zdeněk Šustr",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1583737?v=4",
-      "profile": "https://github.com/sustr4",
-      "contributions": [
-        "platform",
-        "infra"
-      ]
-    },
-    {
-      "login": "micafer",
-      "name": "Miguel Caballer",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4972699?v=4",
-      "profile": "https://github.com/micafer",
-      "contributions": [
-        "platform",
-        "infra"
-      ]
-    },
-    {
-      "login": "rsignell-usgs",
-      "name": "Rich Signell",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1872600?v=4",
-      "profile": "http://about.me/rich.signell",
-      "contributions": [
-        "ideas"
-      ]
-    }
   ],
   "contributorsPerLine": 7,
-  "projectName": "foss4g-2022",
-  "projectOwner": "pangeo-data",
+  "projectName": "reproducibility-challenge-2023",
+  "projectOwner": "eds-book",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,
