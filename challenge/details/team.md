@@ -1,3 +1,5 @@
+(details-team)=
+
 # Our team
 
 ## Organising Committee and Main Support
