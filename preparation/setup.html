@@ -9,7 +9,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>Access to cloud computing and storage resources &#8212; Pangeo Tutorial at FOSS4G 2022</title>
+    <title>Cloud EGI JupyterHub &#8212; Pangeo Tutorial at FOSS4G 2022</title>
   
   
   
@@ -62,10 +62,10 @@ const thebe_selector_input = "pre"
 const thebe_selector_output = ".output, .cell_output"
 </script>
     <script async="async" src="../_static/sphinx-thebe.js"></script>
-    <script>DOCUMENTATION_OPTIONS.pagename = 'before/setup';</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'preparation/setup';</script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="prev" title="Timeline of the workshop" href="../about/timeline.html" />
+    <link rel="prev" title="GitHub and ORCID" href="aai.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="None"/>
   </head>
@@ -156,13 +156,14 @@ const thebe_selector_output = ".output, .cell_output"
                 </a>
             </li>
         </ul>
-        <p aria-level="2" class="caption" role="heading"><span class="caption-text">About</span></p>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Details</span></p>
 <ul class="nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="../about/timeline.html">Reproducibility Challenge timeline</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../details/application.html">Application</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading"><span class="caption-text">Before the Reproducibility Challenge</span></p>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Preparation</span></p>
 <ul class="current nav bd-sidenav">
-<li class="toctree-l1 current active"><a class="current reference internal" href="#">Access to cloud computing and storage resources</a></li>
+<li class="toctree-l1"><a class="reference internal" href="aai.html">GitHub and ORCID</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Cloud EGI JupyterHub</a></li>
 
 </ul>
 
@@ -235,7 +236,7 @@ const thebe_selector_output = ".output, .cell_output"
       
       
       
-      <li><a href="https://github.com/eds-book/reproducibility-challenge-2023/issues/new?title=Issue%20on%20page%20%2Fbefore/setup.html&body=Your%20issue%20content%20here." target="_blank"
+      <li><a href="https://github.com/eds-book/reproducibility-challenge-2023/issues/new?title=Issue%20on%20page%20%2Fpreparation/setup.html&body=Your%20issue%20content%20here." target="_blank"
    class="btn btn-sm btn-source-issues-button dropdown-item"
    title="Open an issue"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -265,7 +266,7 @@ const thebe_selector_output = ".output, .cell_output"
       
       
       
-      <li><a href="../_sources/before/setup.md" target="_blank"
+      <li><a href="../_sources/preparation/setup.md" target="_blank"
    class="btn btn-sm btn-download-source-button dropdown-item"
    title="Download source file"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -347,7 +348,7 @@ document.write(`
               
 
 <div id="jb-print-docs-body" class="onlyprint">
-    <h1>Access to cloud computing and storage resources</h1>
+    <h1>Cloud EGI JupyterHub</h1>
     <!-- Table of contents -->
     <div id="print-main-content">
         <div id="jb-print-toc">
@@ -357,18 +358,21 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
-<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Access to cloud computing and storage resources</a><ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-european-open-science-cloud-eosc">The European Open Science Cloud (EOSC)</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#pangeo-europe">Pangeo Europe</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#c-scale">C-SCALE</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Cloud EGI JupyterHub</a><ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#background-information">Background information</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#the-european-open-science-cloud-eosc">The European Open Science Cloud (EOSC)</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#pangeo-europe">Pangeo Europe</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#c-scale">C-SCALE</a></li>
 </ul>
 </li>
-<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#setup-how-to-run-the-tutorial">Setup: how to run the tutorial</a><ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#running-the-tutorial-on-the-european-open-science-cloud-eosc">Running the tutorial on the European Open Science Cloud (EOSC)</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#running-on-your-own-computer">Running on your own computer</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#running-using-a-binderhub-deployment">Running using a Binderhub deployment</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#register-and-setup-to-cloud-egi-jupyterhub">Register and setup to Cloud EGI JupyterHub</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#registration">Registration</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#cloud-egi-jupyterhub-flavors">Cloud EGI JupyterHub flavors</a></li>
 </ul>
 </li>
+</ul>
+</li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#local-dockerised-environments">Local Dockerised Environments</a></li>
 </ul>
 
             </nav>
@@ -381,108 +385,80 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article" role="main">
                   
-  <section class="tex2jax_ignore mathjax_ignore" id="access-to-cloud-computing-and-storage-resources">
-<h1>Access to cloud computing and storage resources<a class="headerlink" href="#access-to-cloud-computing-and-storage-resources" title="Permalink to this headline">#</a></h1>
+  <section class="tex2jax_ignore mathjax_ignore" id="cloud-egi-jupyterhub">
+<h1>Cloud EGI JupyterHub<a class="headerlink" href="#cloud-egi-jupyterhub" title="Permalink to this headline">#</a></h1>
+<p>In this section, you will learn how to register and access to the ready-to-use cloud EGI JupyterHub.</p>
+<p>Let’s start with a bit of background information! The cloud resources for the CI2023 reproducibility challenge are provided through the collaboration betwwen the <a class="reference external" href="https://pangeo.io">Pangeo community</a> and the European project called <a class="reference external" href="https://c-scale.eu">C-SCALE</a> within the <a class="reference external" href="https://eosc-portal.eu/about/eosc">European Open Science Cloud</a> framework.</p>
+<section id="background-information">
+<h2>Background information<a class="headerlink" href="#background-information" title="Permalink to this headline">#</a></h2>
 <section id="the-european-open-science-cloud-eosc">
-<h2>The European Open Science Cloud (EOSC)<a class="headerlink" href="#the-european-open-science-cloud-eosc" title="Permalink to this headline">#</a></h2>
+<h3>The European Open Science Cloud (EOSC)<a class="headerlink" href="#the-european-open-science-cloud-eosc" title="Permalink to this headline">#</a></h3>
 <p><img alt="EOSC logo" src="../_images/EOSC_logo-small.png" /></p>
 <p>The <a class="reference external" href="https://eosc-portal.eu/about/eosc">European Open Science Cloud (EOSC)</a> aims at becoming the main environment for hosting and processing research data to support European Science.</p>
 </section>
 <section id="pangeo-europe">
-<h2>Pangeo Europe<a class="headerlink" href="#pangeo-europe" title="Permalink to this headline">#</a></h2>
+<h3>Pangeo Europe<a class="headerlink" href="#pangeo-europe" title="Permalink to this headline">#</a></h3>
 <p><img src="https://github.com/eds-book/reproducibility-challenge-2023/raw/main/challenge/figures/pangeo_name_logo.png" width="180" align="Left" /></a></p>
 <p><a class="reference external" href="https://pangeo.io/">Pangeo</a> is a worldwide community for Big Data geoscience promoting open, reproducible, and scalable science.</p>
 <p><a class="reference external" href="https://pangeo.io/meeting-notes.html">Pangeo Europe</a> aims at highlighting European contributions to the Pangeo Community and at providing a reference deployment for Pangeo on EOSC.
 The Pangeo deployment on EOSC has been made possible thanks to <a class="reference external" href="https://www.cesnet.cz/?lang=en">CESNET</a> in the context of the <a class="reference external" href="https://c-scale.eu">C-SCALE</a> project.</p>
 </section>
 <section id="c-scale">
-<h2>C-SCALE<a class="headerlink" href="#c-scale" title="Permalink to this headline">#</a></h2>
+<h3>C-SCALE<a class="headerlink" href="#c-scale" title="Permalink to this headline">#</a></h3>
 <img src="https://github.com/eds-book/reproducibility-challenge-2023/raw/main/challenge/figures/logo-c-scale-vertical-blue.png" width="180" align="Left" />
 <p>The H2020 <a class="reference external" href="https://c-scale.eu">Copernicus-eoSC Analytics Engine (C-SCALE)</a> project provides European researchers with a federated Earth Observation (EO) data analytics platform by leveraging the best-of-breed tools and services of pan-European e-infrastructures. C-SCALE delivers a seamless user experience by abstracting away the complexity of resource provisioning and orchestration. The project offers three main services: the Federated Earth System Simulation and Data Processing Platform (FedEarthData), the Earth Observation Metadata Query Service (EO-MQS), and the openEO Platform service. <a class="reference external" href="https://c-scale.eu/fedearthdata/">FedEarthData</a> provides a distributed infrastructure of data and compute providers to support the execution of EO workflows at scale, while the <a class="reference external" href="https://c-scale.eu/eo-mqs/">EO-MQS</a> makes Copernicus data distributed across partners discoverable and searchable. Finally, the <a class="reference external" href="https://c-scale.eu/openeo-platform/">openEO platform</a> simplifies processing and data management by offering intuitive programming libraries alongside a large EO data repository.</p>
 </section>
 </section>
-<section class="tex2jax_ignore mathjax_ignore" id="setup-how-to-run-the-tutorial">
-<h1>Setup: how to run the tutorial<a class="headerlink" href="#setup-how-to-run-the-tutorial" title="Permalink to this headline">#</a></h1>
-<p>This tutorial’s goal is to provide a wide introduction to the Pangeo ecosystem.
-While participants will see all the core libraries and possibilities offered by the Pangeo software ecosystem, it is also important that they get some insights about what a Pangeo platform is and how to use it.
-This is why we put in place such a platform on top of EOSC federation thanks to provider CESNET.
-We recommend running this tutorial using the EOSC/CESNET infrastructure, which is mainly a Dask-gateway enabled Jupyterhub offering some pre-cooked software environment.
-For more details on this deployment, you may want to take a look at <a class="reference external" href="https://github.com/dask/helm-chart/tree/main/daskhub">Daskhub helm chart</a>.</p>
-<p>This page will describe three ways of running the tutorial:</p>
+<section id="register-and-setup-to-cloud-egi-jupyterhub">
+<h2>Register and setup to Cloud EGI JupyterHub<a class="headerlink" href="#register-and-setup-to-cloud-egi-jupyterhub" title="Permalink to this headline">#</a></h2>
+<p>To facilitate the reproducibility of the papers, CI2023 reproducibility challenge provides you with a ready-to-use JupyterHub with 3 flavors:</p>
 <ul class="simple">
-<li><p>Through EOSC resources (recommended)</p></li>
-<li><p>Locally on your personal computer</p></li>
-<li><p>Using other available Binderhubs solutions</p></li>
+<li><p>Pangeo Notebook;</p></li>
+<li><p>Machine Learning Pangeo notebook;</p></li>
+<li><p>Datascience Notebook with Python, R and Julia.</p></li>
 </ul>
-<section id="running-the-tutorial-on-the-european-open-science-cloud-eosc">
-<h2>Running the tutorial on the European Open Science Cloud (EOSC)<a class="headerlink" href="#running-the-tutorial-on-the-european-open-science-cloud-eosc" title="Permalink to this headline">#</a></h2>
-<p>First, before the FOSS4G workshop, all the participants will have to create an EGI account and enroll to the the Virtual Organisations to have access to EOSC Pangeo JupyterHub and/or EOSC EGI BinderHub.
-There are several steps to follow:</p>
+<p>We will give more details about these 3 flavors but first, let’s go through the registration process.</p>
+<p>The JupyterHub platform was deployed and provided on top of EOSC federation thanks to provider CESNET.</p>
+<p>We recommend using the EOSC/CESNET infrastructure (called later Cloud EGI JupyterHub) to speed-up your work and facilitate sharing among participants.</p>
+<section id="registration">
+<h3>Registration<a class="headerlink" href="#registration" title="Permalink to this headline">#</a></h3>
+<p>First, as early as possible (ideally before the start of the CI2023 reproducibility challenge), all the participants will have to create an EGI account and enroll to the <code class="docutils literal notranslate"><span class="pre">vo.pangeo.eu</span></code> Virtual Organisation to have access to Cloud EGI JupyterHub.</p>
+<p>There are several steps to follow:</p>
 <ol class="arabic simple">
-<li><p>Sign up for an EGI account:  <a class="reference external" href="https://aai.egi.eu/signup">https://aai.egi.eu/signup</a>. Use your <a class="reference external" href="https://orcid.org/">ORCID</a> account to authenticate or social media account e.g. <a class="reference external" href="https://github.com/">GitHub</a>.</p></li>
-<li><p>Enroll to the <strong><a class="reference external" href="http://vo.notebooks.egi.eu">vo.notebooks.egi.eu</a></strong> VO by clicking on <a class="reference external" href="https://aai.egi.eu/registry/co_petitions/start/coef:111">https://aai.egi.eu/registry/co_petitions/start/coef:111</a>. This will take you to the website shown on the Figure <img alt="EGI account" src="../_images/EGI-VO.png" /> and then to <img alt="EGI join VO notebook" src="../_images/EGI-join-VO.png" />. For the latter e.g. when asking to join the EGI VO notebook,  in the “statement for purpose” simply write “<strong>To execute Jupyter notebooks at the Pangeo 101 workshop in the frame of the FOSS4G-2022 conference</strong>”. Review and agree on the policy and click on “Submit”. Once your enrollment has been validated you will have access to <a class="reference external" href="https://binder.notebooks.egi.eu/">https://binder.notebooks.egi.eu/</a> (it requires you to authenticate using EGI Check-in credentials), a service building on BinderHub but with more compute resources than <a class="reference external" href="https://mybinder.org/">https://mybinder.org/</a>.</p></li>
-<li><p>Similarly create another account on the <strong>development instance</strong> of EGI Check-In, clicking on: <a class="reference external" href="https://aai-dev.egi.eu/registry/co_petitions/start/coef:2">https://aai-dev.egi.eu/registry/co_petitions/start/coef:2</a>.</p></li>
-<li><p><strong>Enroll</strong> in the “<a class="reference external" href="http://vo.pangeo.eu">vo.pangeo.eu</a>” Virtual Organisation by clicking on: <a class="reference external" href="https://aai-dev.egi.eu/registry/co_petitions/start/coef:290">https://aai-dev.egi.eu/registry/co_petitions/start/coef:290</a> (no statement of purpose required).</p></li>
+<li><p>Sign up for an EGI account on the <strong>development instance</strong> of EGI Check-In, clicking on: <a class="reference external" href="https://aai-dev.egi.eu/registry/co_petitions/start/coef:2">https://aai-dev.egi.eu/registry/co_petitions/start/coef:2</a>. <strong>Use your <a class="reference external" href="https://orcid.org/">ORCID iD</a> account to authenticate.</strong></p></li>
+<li><p><strong>Enroll</strong> in the <code class="docutils literal notranslate"><span class="pre">vo.pangeo.eu</span></code> Virtual Organisation (VO) by clicking on: <a class="reference external" href="https://aai-dev.egi.eu/registry/co_petitions/start/coef:290">https://aai-dev.egi.eu/registry/co_petitions/start/coef:290</a>. Review and click on <code class="docutils literal notranslate"><span class="pre">Submit</span></code>. Please add a note: “I am participating in the CI2023 reproducibility challenge”, in the statement of purpose when requesting to join the VO. Once your enrollment has been validated you will have access to <a class="reference external" href="https://repro-challenge.vm.fedcloud.eu/">https://repro-challenge.vm.fedcloud.eu/</a> (it requires you to authenticate using EGI Check-in credentials e.g. your ORCID iD).</p></li>
 </ol>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
 <p>It is <strong>important</strong> to perform all these steps <strong>as early as possible</strong> in order for managers of the Virtual Organisations to approve your petitions to join (which may <strong>take several days</strong>).</p>
 </div>
-<p>Once your enrollments have been validated, you may need to log out from EGI Check-in to refresh your account. If you have any trouble, request help by <a class="reference external" href="https://github.com/eds-book/reproducibility-challenge-2023/issues/new">filling an issue</a> before the workshop. Someone will assist you with the setup.</p>
-<p>To access the Pangeo EOSC JupyterHub, you need to click on <a class="reference external" href="https://eds-book.vm.fedcloud.eu/jupyterhub/hub/user-redirect/git-pull?repo=https%3A//github.com/eds-book/reproducibility-challenge-2023&amp;urlpath=lab/tree/reproducibility-challenge-2023/tutorial/pangeo101/&amp;branch=main">this link</a> to open a Jupyterlab on the correct folder for the tutorial.</p>
-<p>Under the hood, this will clone the <a class="github reference external" href="https://github.com/eds-book/reproducibility-challenge-2023">eds-book/reproducibility-challenge-2023</a> repository and put you in the correct folder for executing our tutorial.</p>
-<p>From there, you can open and execute any notebooks used during the workshop, enjoy!</p>
-<p>Alternatively, you can also open notebooks one by one from the PANGEO 101 section of this Jupyterbook by clicking on the rocket icon 🚀 on top of the notebook and choosing Jupyterhub option.</p>
+<p>Once your enrollments have been validated, you may need to log out from EGI Check-in to refresh your account. If you have any trouble, request help by <a class="reference external" href="https://github.com/eds-book/reproducibility-challenge-2023/issues/new">filling an issue</a>. Someone will assist you with the setup.</p>
+</section>
+<section id="cloud-egi-jupyterhub-flavors">
+<h3>Cloud EGI JupyterHub flavors<a class="headerlink" href="#cloud-egi-jupyterhub-flavors" title="Permalink to this headline">#</a></h3>
+<p>To access the cloud EGI JupyterHub, you need to click on <a class="reference external" href="https://repro-challenge.vm.fedcloud.eu/">this link</a> and choose among the 3 available flavors (as shown on the figure below):</p>
+<p><img alt="Cloud EGI JupyterHub flavors" src="../_images/flavors.png" /></p>
+<p>The choice between the 3 flavors depends on the paper you are trying to reproduce. Please note that you can also change from one flavor to another by stopping your server and starting it again.</p>
+<ul class="simple">
+<li><p>Pangeo Notebook uses a docker image maintained by the Pangeo community. It contains all the Python packages you need to data analysis and visualization. The list of packages and all the Pangeo Notebook environment is made available <a class="reference external" href="https://github.com/pangeo-data/pangeo-docker-images">here</a>; look up the <code class="docutils literal notranslate"><span class="pre">pangeo-notebook</span></code> folder.</p></li>
+<li><p>Machine Learning Pangeo notebook: similarly, it is maintained by the Pangeo community and the complete computational environment with the list of Python packages is also available at <a class="github reference external" href="https://github.com/pangeo-data/pangeo-docker-images">pangeo-data/pangeo-docker-images</a> in the <code class="docutils literal notranslate"><span class="pre">ml-notebook</span></code> folder. This flavor contains all the packages from the Pangeo Notebook flavor and is GPU-enabled tensorflow2. Choose this flavor if you need GPUs; for instance for training neural networks;</p></li>
+<li><p>Datascience Notebook with Python, R and Julia is maintained by the Jupyter community at <a class="github reference external" href="https://github.com/jupyter/docker-stacks">jupyter/docker-stacks</a>. Look up the <code class="docutils literal notranslate"><span class="pre">datascience-notebook</span></code> folder. It contains 3 different kernels, namely Python, R and Julia notebooks. You should prefer this flavor if the paper you reproduce uses R or Julia programming language. Please note that you would probably need to add additional packages as the list of available packages is not exhaustive and specific to environmental data science.</p></li>
+</ul>
+<p>With all the 3 flavors, you can also add additional packages you may need for reproducing the paper of interest.</p>
+<p>For the Pangeo and Machine Learning notebook flavors, a Dask-gateway is available for scaling your computation. For more details on this deployment, you may want to take a look at <a class="reference external" href="https://github.com/dask/helm-chart/tree/main/daskhub">Daskhub helm chart</a>.</p>
+<p>From there, you can open and execute any notebooks used during the workshop, enjoy 🚀!</p>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
-<p>After the FOSS4G workshop, you can continue to use the resources, but note that we would probably modify the service and things might not work from time to time.
+<p>After the CI2023 reproducibility challenge, you can continue to use the resources to finalize the Jupyter Notebook to be published in the <a class="reference external" href="https://edsbook.org">EDS Book</a>, but note that we would probably modify the service and things might not work from time to time. The link (web address) to the Cloud EGI JupyterHub may change too. <strong>Therefore, we recommend you to copy all the necessary files before; for instance in the Github repository set up for reproducing your paper</strong>.
 We would appreciate you get in touch with us to give us some feedback and be informed of the platform evolution. You can do this through <a class="reference external" href="https://github.com/eds-book/reproducibility-challenge-2023/discussions">Github Discussions</a>.</p>
 <p>You can also contribute to “the Pangeo show and tell” online meetups.</p>
 </div>
 </section>
-<section id="running-on-your-own-computer">
-<h2>Running on your own computer<a class="headerlink" href="#running-on-your-own-computer" title="Permalink to this headline">#</a></h2>
-<p>Most parts of this tutorial were designed to run with limited computer resources, so it is possible to run on your laptop.
-It is a bit more complicated as you will have to install the software environment yourself. Also you will not be able to test real cloud distributed processing with Dask gateway.</p>
-<p>Steps to run this tutorial on your own computer are listed below and demonstrated <em>through Linux commands only</em>:</p>
-<ol class="arabic simple">
-<li><p>git clone the reproducibility-challenge–2023 repository.</p></li>
-</ol>
-<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>git<span class="w"> </span>clone<span class="w"> </span>https://github.com/eds-book/reproducibility-challenge-2023.git
-</pre></div>
-</div>
-<ol class="arabic simple" start="2">
-<li><p>Install the required software environment with Conda. If you do not have Conda, install it by following these instructions (see <a class="reference external" href="https://docs.conda.io/en/latest/miniconda.html">here</a>). Then create the environment, this can take a few minutes.</p></li>
-</ol>
-<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>conda<span class="w"> </span>env<span class="w"> </span>create<span class="w"> </span>-n<span class="w"> </span>challenge<span class="w"> </span>-f<span class="w"> </span>reproduciblity-challenge-2023/.binder/environment.yml
-</pre></div>
-</div>
-<ol class="arabic simple" start="3">
-<li><p>Launch a Jupyterlab notebook server from this environment.</p></li>
-</ol>
-<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>conda<span class="w"> </span>activate<span class="w"> </span>challenge
-jupyter<span class="w"> </span>lab
-</pre></div>
-</div>
-<ol class="arabic simple" start="4">
-<li><p>Open a web browser and connect to the Jupyterlab provided URL (you should see it in the jupyter lab command outputs), something like: <a class="reference external" href="http://localhost:8888/lab?token=42fac6733c6854578b981bca3abf5152">http://localhost:8888/lab?token=42fac6733c6854578b981bca3abf5152</a>.</p></li>
-<li><p>Navigate to reproducibility-challenge-2023/tutorial/pangeo101/ using the file browser on the left side of the Jupyterlab screen.</p></li>
-</ol>
 </section>
-<section id="running-using-a-binderhub-deployment">
-<h2>Running using a Binderhub deployment<a class="headerlink" href="#running-using-a-binderhub-deployment" title="Permalink to this headline">#</a></h2>
-<p><a class="reference external" href="https://binderhub.readthedocs.io/en/latest/">Binderhub</a> is a cloud service that allows users to share reproducible interactive computing environments from code repositories. It is generally used to enable other users to easily run your own code through Jupyter notebooks.
-It is a really cool service offered for free by several organisations (MyBinder through Jupyter, GESIS, etc.).</p>
-<p>It is probably the easiest way to execute notebooks in this repository, as you only have to do one click to arrive in a Jupyterlab with all the necessary libraries.
-However, the hardware resources of the public BinderHub are quite small, so you will not be able to grasp the full potential of the Pangeo software stack, and parts of the notebooks will be unavailable.</p>
-<p>All the notebooks on the PANGEO 101 section, for example <span class="xref myst">“Handling multi-dimensional arrays with xarray”</span> have a rocket icon 🚀 at the top, from which you can select the Binder button to just run this notebook on the <a class="reference external" href="https://notebooks.gesis.org/binder/">GESIS Binder service</a>.</p>
-<p>Alternatively, you can also directly click on the below buttons:</p>
-<p>GESIS:</p>
-<p><a class="reference external" href="https://notebooks.gesis.org/binder/v2/gh/ds-book/reproducibility-challenge-2023/HEAD"><img alt="Binder" src="https://mybinder.org/badge_logo.svg" /></a></p>
-<p>MyBinder:</p>
-<p><a class="reference external" href="https://mybinder.org/v2/gh/eds-book/reproducibility-challenge-2023/HEAD"><img alt="Binder" src="https://mybinder.org/badge_logo.svg" /></a></p>
-<p>You will then have to navigate to the reproducibility-challenge-2023/tutorial/pangeo101/ folder using the file browser on the left side of the Jupyterlab screen.</p>
 </section>
+<section class="tex2jax_ignore mathjax_ignore" id="local-dockerised-environments">
+<h1>Local Dockerised Environments<a class="headerlink" href="#local-dockerised-environments" title="Permalink to this headline">#</a></h1>
+<p>TBD</p>
 </section>
 
     <script type="text/x-thebe-config">
@@ -498,7 +474,7 @@ However, the hardware resources of the public BinderHub are quite small, so you 
         },
         kernelOptions: {
             name: "python3",
-            path: "./before"
+            path: "./preparation"
         },
         predefinedOutput: true
     }
@@ -517,12 +493,12 @@ However, the hardware resources of the public BinderHub are quite small, so you 
     <div class="footer-article-item"><!-- Previous / next buttons -->
 <div class="prev-next-area">
     <a class="left-prev"
-       href="../about/timeline.html"
+       href="aai.html"
        title="previous page">
       <i class="fa-solid fa-angle-left"></i>
       <div class="prev-next-info">
         <p class="prev-next-subtitle">previous</p>
-        <p class="prev-next-title">Timeline of the workshop</p>
+        <p class="prev-next-title">GitHub and ORCID</p>
       </div>
     </a>
 </div></div>
@@ -543,18 +519,21 @@ However, the hardware resources of the public BinderHub are quite small, so you 
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Access to cloud computing and storage resources</a><ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-european-open-science-cloud-eosc">The European Open Science Cloud (EOSC)</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#pangeo-europe">Pangeo Europe</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#c-scale">C-SCALE</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Cloud EGI JupyterHub</a><ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#background-information">Background information</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#the-european-open-science-cloud-eosc">The European Open Science Cloud (EOSC)</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#pangeo-europe">Pangeo Europe</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#c-scale">C-SCALE</a></li>
 </ul>
 </li>
-<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#setup-how-to-run-the-tutorial">Setup: how to run the tutorial</a><ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#running-the-tutorial-on-the-european-open-science-cloud-eosc">Running the tutorial on the European Open Science Cloud (EOSC)</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#running-on-your-own-computer">Running on your own computer</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#running-using-a-binderhub-deployment">Running using a Binderhub deployment</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#register-and-setup-to-cloud-egi-jupyterhub">Register and setup to Cloud EGI JupyterHub</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#registration">Registration</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#cloud-egi-jupyterhub-flavors">Cloud EGI JupyterHub flavors</a></li>
 </ul>
 </li>
+</ul>
+</li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#local-dockerised-environments">Local Dockerised Environments</a></li>
 </ul>
 
   </nav></div>
