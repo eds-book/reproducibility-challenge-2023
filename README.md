@@ -42,7 +42,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 ## Acknowledgments 🙌 
-2023 Climate Informatics Reproducibility Challenge is co-hosted by Climate Informatics, EDS book and Cambridge University Press & Assessment with support from Cambridge University, The Alan Turing Institute and Simula Research Laboratory.
+2023 Climate Informatics Reproducibility Challenge is co-hosted by EDS book, Climate Informatics and Cambridge University Press & Assessment with support from Cambridge University, The Alan Turing Institute and Simula Research Laboratory.
 
 <img src="challenge/figures/logos-organisers.png" height="100">
 
