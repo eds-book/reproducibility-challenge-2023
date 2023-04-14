@@ -4,7 +4,6 @@
 format: jb-book
 root: intro
 parts:
-- caption: About
 - caption: Details
   chapters:
   - file: details/timeline
