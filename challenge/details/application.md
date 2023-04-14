@@ -48,15 +48,15 @@ Reviewers should assess the accuracy, completeness, and clarity of their reprodu
 Here is some information for reviewers:
 
 * **Read the guidelines:** carefully read [EDS book guidelines and criteria for reviewers](https://edsbook.org/publishing/guidelines/guidelines-reviewers.html) to ensure that they are assessing the notebooks appropriately. 
-* **Evaluate the report:** assess the notebook based on its clarity, completeness, and accuracy. They should also consider any additional insights or observations provided by the participants. 
+* **Evaluate the notebook:** assess the notebook based on its clarity, completeness, and accuracy. They should also consider any additional insights or observations provided by the participants. 
 * **Verify the reproduction process:** verify that the participant has followed the reproduction process as closely as possible, and note any deviations or challenges that the participant encountered.
 * **Evaluate the findings:** evaluate the accuracy and reliability of the participants' findings, and compare them to the original study's results. They should also consider any additional insights or observations provided by the participant. 
-* **Provide constructive feedback:** provide constructive feedback to the participant, highlighting any strengths and weaknesses of their report and offering suggestions for improvement.
+* **Provide constructive feedback:** provide constructive feedback to the participant, highlighting any strengths and weaknesses of their notebook and offering suggestions for improvement.
 * **Meet the deadlines:** Reviewers should meet the deadlines set and submit their evaluations in a timely manner (1 week).
 
 It is important for reviewers to be objective and impartial, and to provide constructive feedback to help participants improve their reproducibility skills. 
 
 ### Application form
-Registration is now open at this [link](https://forms.gle/ixRizjFYP3BxycEfA) through 13 May @ 23:59 AOE.
+Registration is now open at this [link]() through 13 May @ 23:59 AOE.
 
 In the application form, we encourage reviewers to indicate areas of interest, programming proficiency and other relevant skills.
