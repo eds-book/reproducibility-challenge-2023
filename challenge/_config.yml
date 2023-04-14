@@ -5,7 +5,7 @@
 
 #######################################################################################
 # Book settings
-title                       : "Climate Informatics Reproducibility Challenge" # The title of the book. Will be placed in the left navbar.
+title                       : Climate Informatics Reproducibility Challenge # The title of the book. Will be placed in the left navbar.
 author                      : EDS book, Climate Informatics and Cambridge University Press & Assessment  # The author of the book
 copyright                   : "2023"  # Copyright year to be placed in the footer
 logo                        : "./figures/logos-organisers.png"  # A path to the book logo
@@ -14,14 +14,11 @@ only_build_toc_files        : true
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
-  execute_notebooks: force
-  timeout: 1000
+  execute_notebooks: 'off'
 
 # Add a launch button on a specific binder instance
 launch_buttons:
-  notebook_interface: "jupyterlab"
-  binderhub_url: "https://notebooks.gesis.org/binder/"  # The URL for your BinderHub (e.g., https://mybinder.org)
-  jupyterhub_url: "https://rc.vm.fedcloud.eu/jupyterhub/"  # The URL for your JupyterHub. (e.g., https://datahub.berkeley.edu)
+  binderhub_url: ""  # The URL for your BinderHub (e.g., https://mybinder.org)
 
 # Define the name of the latex output file for PDF builds
 latex:
