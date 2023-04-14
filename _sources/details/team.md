@@ -1,3 +1,5 @@
+(details-team)=
+
 # Our team
 
 ## Organising Committee and Main Support
@@ -119,4 +121,5 @@ Yuhan (Douglas) Rao
 :::::
 
 ## Challenge Helpers
+
 - Kacey Cheyenne Mallow, Cambridge University Press

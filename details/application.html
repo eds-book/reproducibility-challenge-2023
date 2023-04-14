@@ -181,7 +181,6 @@ const thebe_selector_output = ".output, .cell_output"
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Tutorials</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="../tutorials/learning-code.html">Learning to code</a></li>
-
 <li class="toctree-l1"><a class="reference internal" href="../tutorials/github.html">GitHub</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tutorials/jupyter.html">Jupyter</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tutorials/zenodo.html">Zenodo</a></li>
@@ -378,9 +377,8 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#information-for-participants-authors">Information for participants/authors</a><ul class="nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#information-for-teams">Information for teams</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#stages">Stages</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#tips">Tips</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#application-form">Application form</a></li>
 </ul>
 </li>
@@ -403,22 +401,22 @@ document.write(`
 <span id="details-application"></span><h1>Application<a class="headerlink" href="#application" title="Permalink to this headline">#</a></h1>
 <p>The CI2023 Reproducibility Challenge will be a virtual event held May 1-31, 2023, where teams of 2-4 will collaborate to create a Jupyter notebook which reproduces the key contributions of a published environmental data science paper for eventual integration in the open-source <a class="reference external" href="https://edsbook.org/">Environmental Data Science (EDS) book</a>.</p>
 <p>A pool of peer reviewers consisting of original authors of pre-approved papers, reviewers for the Climate Informatics conference, and other members of the Climate Informatics and EDS book communities will begin working with participants at the two-week mark of the competition to sharpen the submission and ensure it is ready for publication in the EDS book following the competition.</p>
-<p>We provide further information of the key stages, requirements and registration links for notebook Authors and Reviewers.</p>
-<section id="information-for-participants-authors">
-<h2>Information for participants/authors<a class="headerlink" href="#information-for-participants-authors" title="Permalink to this headline">#</a></h2>
+<p>We provide further information of the key stages, requirements and registration links for notebook Teams and Reviewers.</p>
+<section id="information-for-teams">
+<h2>Information for teams<a class="headerlink" href="#information-for-teams" title="Permalink to this headline">#</a></h2>
 <section id="stages">
 <h3>Stages<a class="headerlink" href="#stages" title="Permalink to this headline">#</a></h3>
-<p>We provide below the key stages authors will get involved:</p>
+<p>We provide below the key stages participants will get involved:</p>
 <ul class="simple">
 <li><p><strong>Registration and teams formation:</strong> Participants should fill a registration form for the challenge and indicate the study they will be reproducing, programming proficiency and other relevant skills. After the registration deadline, the Organising Committee will mediate team formation and assign team members based on paper preferences and skills.</p></li>
 <li><p><strong>Reproducibility:</strong> Teams must follow <a class="reference external" href="https://edsbook.org/publishing/guidelines.html#guidelines-for-eds-book-notebooks">EDS book submission guidelines</a>. They should open a <a class="reference external" href="https://edsbook.org/publishing/guidelines/guidelines-authors.html#notebook-idea">Notebook Idea</a> in the EDS book repository to describe and discuss initial ideas of the paper to reproduce. EDS book provides <a class="reference external" href="https://edsbook.org/publishing/guidelines/guidelines-authors.html#notebook-repository">templates of notebook repositories in Python, R and Julia</a> that aim to facilitate teams submission. Teams should reproduce the study’s results as closely as possible using the available data and code. They should document their process and any deviations from the original study in a Jupyter notebook.</p></li>
 <li><p><strong>Submission and Review:</strong> Teams should submit the notebook repository detailing their reproduction process, including any challenges or differences from the original study. They should also include their findings and any additional insights or observations. The review process will be documented on <a class="reference external" href="https://edsbook.org/publishing/guidelines/guidelines-authors.html#pre-review">PRE-REVIEW</a> and <a class="reference external" href="https://edsbook.org/publishing/guidelines/guidelines-authors.html#review">REVIEW</a> issues aiming to assign reviewers and moderate high-level conversations between teams and reviewers.</p></li>
 <li><p><strong>Evaluation:</strong> The notebook will be evaluated by a panel of judges based on their accuracy, completeness, and clarity. The judges may also consider the participants’ insights and additional observations. Teams can find further details of the scoring criteria <a class="reference internal" href="judging.html#details-judging"><span class="std std-ref">here</span></a>.</p></li>
-<li><p><strong>Award:</strong> The top participants will be awarded based on their ranking and prize pool for the challenge.</p></li>
+<li><p><strong>Award:</strong> The top team will be awarded based on their ranking and prize pool for the challenge.</p></li>
 </ul>
-</section>
-<section id="tips">
-<h3>Tips<a class="headerlink" href="#tips" title="Permalink to this headline">#</a></h3>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>The computing and storage resources used for this workshop have been kindly provided by <a class="reference external" href="https://www.cesnet.cz/?lang=en">CESNET</a> in the context of the <a class="reference external" href="https://c-scale.eu">C-SCALE</a> project that provides advanced computing for <a class="reference external" href="https://eosc-portal.eu/about/eosc">EOSC</a>.</p>
 <p>In the CI2023 reproducibility challenge, participants must attempt to reproduce the results of a published scientific study from a list of <a class="reference external" href="https://docs.google.com/spreadsheets/d/1fKmt3B5RJjJ0V0CfUksNQr2rZVCkxOO015b_2fwOzpg/edit?usp=sharing">pre-approved papers</a> or suggest their own paper. Participants should follow the methods and procedures described in the original study, where possible using same data and software tools.</p>
 <p>Participants are welcome to follow tips below for a successful experience in the reproducibility challenge:</p>
 <ul class="simple">
@@ -430,10 +428,11 @@ document.write(`
 <li><p><strong>Engage with the community:</strong> engage with the CI2023 and EDS book community and seek feedback and input from others, including organisers, reviewers, and other participants.</p></li>
 <li><p><strong>Adhere to best practices:</strong> adhere to best practices for reproducible research, including using open-source tools and sharing their work openly and transparently.</p></li>
 </ul>
+</div>
 </section>
 <section id="application-form">
 <h3>Application form<a class="headerlink" href="#application-form" title="Permalink to this headline">#</a></h3>
-<p>Registration is now open at this <a class="reference external" href="https://forms.gle/ixRizjFYP3BxycEfA">link</a> through 29 April &#64; 23:59 AOE.</p>
+<p>Registration is now open at this <a class="reference external" href="https://forms.gle/ixRizjFYP3BxycEfA">link</a> through 28 April &#64; 23:59 AOE.</p>
 <p>In the application form, we encourage participants to select one of two tracks:</p>
 <ul class="simple">
 <li><p>Pre-Approved Paper Track: Reproduce a paper pre-approved by the Organising Committee to have sufficient data and code availability. Pre-approved papers are listed in alphabetical order <a class="reference external" href="https://docs.google.com/spreadsheets/d/1fKmt3B5RJjJ0V0CfUksNQr2rZVCkxOO015b_2fwOzpg/edit?usp=sharing">here</a>.</p></li>
@@ -448,16 +447,16 @@ Reviewers should assess the accuracy, completeness, and clarity of their reprodu
 Here is some information for reviewers:</p>
 <ul class="simple">
 <li><p><strong>Read the guidelines:</strong> carefully read <a class="reference external" href="https://edsbook.org/publishing/guidelines/guidelines-reviewers.html">EDS book guidelines and criteria for reviewers</a> to ensure that they are assessing the notebooks appropriately.</p></li>
-<li><p><strong>Evaluate the report:</strong> assess the notebook based on its clarity, completeness, and accuracy. They should also consider any additional insights or observations provided by the participants.</p></li>
+<li><p><strong>Evaluate the notebook:</strong> assess the notebook based on its clarity, completeness, and accuracy. They should also consider any additional insights or observations provided by the participants.</p></li>
 <li><p><strong>Verify the reproduction process:</strong> verify that the participant has followed the reproduction process as closely as possible, and note any deviations or challenges that the participant encountered.</p></li>
 <li><p><strong>Evaluate the findings:</strong> evaluate the accuracy and reliability of the participants’ findings, and compare them to the original study’s results. They should also consider any additional insights or observations provided by the participant.</p></li>
-<li><p><strong>Provide constructive feedback:</strong> provide constructive feedback to the participant, highlighting any strengths and weaknesses of their report and offering suggestions for improvement.</p></li>
+<li><p><strong>Provide constructive feedback:</strong> provide constructive feedback to the participant, highlighting any strengths and weaknesses of their notebook and offering suggestions for improvement.</p></li>
 <li><p><strong>Meet the deadlines:</strong> Reviewers should meet the deadlines set and submit their evaluations in a timely manner (1 week).</p></li>
 </ul>
 <p>It is important for reviewers to be objective and impartial, and to provide constructive feedback to help participants improve their reproducibility skills.</p>
 <section id="id1">
 <h3>Application form<a class="headerlink" href="#id1" title="Permalink to this headline">#</a></h3>
-<p>Registration is now open at this <a class="reference external" href="https://forms.gle/ixRizjFYP3BxycEfA">link</a> through 13 May &#64; 23:59 AOE.</p>
+<p>Registration is now open at this <span class="xref myst">link</span> through 13 May &#64; 23:59 AOE.</p>
 <p>In the application form, we encourage reviewers to indicate areas of interest, programming proficiency and other relevant skills.</p>
 </section>
 </section>
@@ -530,9 +529,8 @@ Here is some information for reviewers:</p>
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#information-for-participants-authors">Information for participants/authors</a><ul class="nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#information-for-teams">Information for teams</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#stages">Stages</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#tips">Tips</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#application-form">Application form</a></li>
 </ul>
 </li>
