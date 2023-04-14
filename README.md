@@ -4,15 +4,11 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+<img src="challenge/figures/splash-reproducibility-challenge.png">
+
 This repository contains the documentation and jupyter notebooks used for delivering [the 2023 Climate Informatics Reproducibility Challenge](https://cambridge-iccs.github.io/climate-informatics-2023/reproducibility-challenge).
 
-<img src="challenge/figures/pangeo_logo.png" width="180" align="Left" />
-<img src="challenge/figures/logo-c-scale-vertical-blue.png" width="180" align="Right" />
-
-<br>
-
 The content of this repository (folder `challenge`) is rendered as an online document using [Jupyter Book](https://jupyterbook.org/en/stable/intro.html). **You can access it [here](https://eds-book.github.io/reproducibility-challenge-2023)**.
-
 
 ## Contributors ✨
 
@@ -44,3 +40,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## Acknowledgments 🙌 
+2023 Climate Informatics Reproducibility Challenge is co-hosted by Climate Informatics, EDS book and Cambridge University Press & Assessment with support from Cambridge University, The Alan Turing Institute and Simula Research Laboratory.
+
+<img src="challenge/figures/logos-organisers.png" height="100">
+
+Cloud computing infrastructure is kindly provided by [C-SCALE](https://c-scale.eu/).
+
+<img src="challenge/figures/logo-c-scale-vertical-blue.png" height="100">
