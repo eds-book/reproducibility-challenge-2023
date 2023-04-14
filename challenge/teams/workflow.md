@@ -7,7 +7,7 @@ The following workflow can be used during the reproducibility challenge:
 1. Each team member (or as a group) should carefully read the paper and identify the data used/needed, software used and overall what you would have to reproduce during the challenge;
 2. Choose the notebook template depending on the programming language (Python, R and/or Julia) and click on "use this template" button to create a new repository. This step should be done by the technical lead of your team only e.g. only one repository needs to be created.
 3. The team lead (owner of the repository) adds all the other team members as collaborators to the repository.
-4. Create issues to organize and dispatch the work. You may use Github project but make sure all the team members are acquainted with the procedures put in place in your team; 
+4. Create issues to organize and dispatch the work. You may use GitHub project but make sure all the team members are acquainted with the procedures put in place in your team; 
 5. Start working (incrementally!) on reproducing the paper. Testing independent sections is recommended. don't forget to take regular breaks and HAVE FUN! Whenever you have achieved a milestone (can be data downloaded, a plot, etc.), make sure to communicate with your peers so that the team presenter can gather the necessary information to show your progress/pending issues during checkpoints.
 
 
