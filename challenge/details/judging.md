@@ -3,6 +3,7 @@
 # Judging
 
 ## Panel
+
 Submissions to both tracks will be judged together by the following panel of environmental data science experts on the basis of their adherence to open science and FAIR practices, adherence to the objectives of the EDS book, and tutorial contributions, adjusted to consider the amount of resources provided by the authors of the original paper.
 
 * [Alejandro Coca-Castro, The Alan Turing Institute](https://acocac.github.io/en/)
@@ -10,6 +11,7 @@ Submissions to both tracks will be judged together by the following panel of env
 * [Douglas (Yuhan) Rao, North Carolina Institute for Climate Studies](https://ncics.org/people/douglas-rao/)
 
 ## Role
+
 The judge role is to evaluate the notebooks submitted by participants and select the top-performing ones based on a set of criteria. 
 Here is some information for judges:
 
@@ -25,10 +27,11 @@ Here is some information for judges:
 It is important for judges to be objective and impartial, and to provide constructive feedback to help participants improve their reproducibility skills. 
 
 ## Criteria
+
 Judges have two criteria categories to score submissions to ensure that the team' work is of the high quality and meets the standards of reproducible research
-TODO - how to weight to be  fair and consistent? 
 
 ### General
+
 Here are the general criteria to be used to score submissions:
 
 * **Accuracy:** How closely did the team's results match the original study's results?
@@ -37,9 +40,9 @@ Here are the general criteria to be used to score submissions:
 * **Reproducibility:** Did the participant follow the reproduction process as closely as possible? Were they able to reproduce the original study's results?
 * **Documentation:** Did the participant provide clear and thorough documentation of their reproduction process, including any scripts or code used?
 * **Additional insights:** Did the participant provide any additional insights or observations that were not included in the original study?
-* **Contribution to the field:** Did the participant's work contribute to the advancement of the field? Did they identify any new avenues for research or potential applications of the study's findings?
 
-## Jupyter notebook
+### Jupyter notebook
+
 Here are some technical aspects of a Jupyter Notebook that can be reviewed:
 
 * **Code quality:** Review the code in the notebook to ensure it is well-documented, easy to understand, and follows best practices for code organization and style.

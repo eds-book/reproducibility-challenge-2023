@@ -1,3 +1,5 @@
+(preparation-setup)=
+
 # Cloud EGI JupyterHub
 
 In this section, you will learn how to register and access to the ready-to-use cloud EGI JupyterHub.
@@ -7,7 +9,6 @@ Let's start with a bit of background information! The cloud resources for the CI
 ## Background information
 
 ### The European Open Science Cloud (EOSC)
-
 
 ![EOSC logo](../figures/EOSC_logo-small.png)
 
@@ -43,7 +44,6 @@ We recommend using the EOSC/CESNET infrastructure (called later Cloud EGI Jupyte
 
 ### Registration
 
-
 First, as early as possible (ideally before the start of the CI2023 reproducibility challenge), all the participants will have to create an EGI account and enroll to the `vo.pangeo.eu` Virtual Organisation to have access to Cloud EGI JupyterHub.
 
 There are several steps to follow:
@@ -51,18 +51,15 @@ There are several steps to follow:
 1. Sign up for an EGI account on the **development instance** of EGI Check-In, clicking on: [https://aai-dev.egi.eu/registry/co_petitions/start/coef:2](https://aai-dev.egi.eu/registry/co_petitions/start/coef:2). **Use your [ORCID iD](https://orcid.org/) account to authenticate.**
 2. **Enroll** in the `vo.pangeo.eu` Virtual Organisation (VO) by clicking on: [https://aai-dev.egi.eu/registry/co_petitions/start/coef:290](https://aai-dev.egi.eu/registry/co_petitions/start/coef:290). Review and click on `Submit`. Please add a note: "I am participating in the CI2023 reproducibility challenge", in the statement of purpose when requesting to join the VO. Once your enrollment has been validated you will have access to [https://repro-challenge.vm.fedcloud.eu/](https://repro-challenge.vm.fedcloud.eu/) (it requires you to authenticate using EGI Check-in credentials e.g. your ORCID iD). 
 
-
 :::{note}
 It is **important** to perform all these steps **as early as possible** in order for managers of the Virtual Organisations to approve your petitions to join (which may **take several days**).
 :::
 
 Once your enrollments have been validated, you may need to log out from EGI Check-in to refresh your account. If you have any trouble, request help by [filling an issue](https://github.com/eds-book/reproducibility-challenge-2023/issues/new). Someone will assist you with the setup.
 
-
 ### Cloud EGI JupyterHub flavors
 
 To access the cloud EGI JupyterHub, you need to click on [this link](https://repro-challenge.vm.fedcloud.eu/) and choose among the 3 available flavors (as shown on the figure below):
-
 
 ![Cloud EGI JupyterHub flavors](../figures/flavors.png)
 
@@ -76,9 +73,7 @@ With all the 3 flavors, you can also add additional packages you may need for re
 
 For the Pangeo and Machine Learning notebook flavors, a Dask-gateway is available for scaling your computation. For more details on this deployment, you may want to take a look at [Daskhub helm chart](https://github.com/dask/helm-chart/tree/main/daskhub).
 
-
 From there, you can open and execute any notebooks used during the workshop, enjoy 🚀!
-
 
 :::{note}
 After the CI2023 reproducibility challenge, you can continue to use the resources to finalize the Jupyter Notebook to be published in the [EDS Book](https://edsbook.org), but note that we would probably modify the service and things might not work from time to time. The link (web address) to the Cloud EGI JupyterHub may change too. **Therefore, we recommend you to copy all the necessary files before; for instance in the Github repository set up for reproducing your paper**.
@@ -87,9 +82,5 @@ We would appreciate you get in touch with us to give us some feedback and be inf
 You can also contribute to "the Pangeo show and tell" online meetups.
 :::
 
-
 # Local Dockerised Environments
-
-
-
 TBD

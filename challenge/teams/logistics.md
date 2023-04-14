@@ -1,3 +1,5 @@
+(teams-logistics)=
+
 # Team logistics
 
 In this section, you will find all the information you need to easily work in your team.
@@ -33,5 +35,3 @@ We will be using zoom for the clinics and checkpoints. The zoom link will be com
 
 All communications during the CI2023 reproducibility challenge are regulated by the [Environmental Data Science Book Code of Conduct](https://raw.githubusercontent.com/alan-turing-institute/environmental-ds-book/master/CODE_OF_CONDUCT.md).
 :::
-
-

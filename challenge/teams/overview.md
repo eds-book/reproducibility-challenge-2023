@@ -1,3 +1,5 @@
+(teams-overview)=
+
 # Overview
 
 After the registration deadline, the Organising Committee will mediate team formation and assign team members based on paper preferences and skills. Each team will be composed of 2-4 participants depending on the final number of registrants and the paper preferences.
