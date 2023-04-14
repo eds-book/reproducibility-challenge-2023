@@ -50,11 +50,9 @@ Andrew Hyde
 <img src="https://pbs.twimg.com/profile_images/1453771231749189632/nrG8Przs_400x400.jpg" alt="picture of Andrew Hyde" width="200" height="200">
 
 +++
-*Affiliations:* Cambridge University Press & Assessment.
+*Affiliations:* Cambridge University Press
 
 *Ask me about:* Publishing, Open Access, Communication
-:::
-
 :::
 
 :::{grid-item-card} 
@@ -82,9 +80,9 @@ Ricardo Barros Lourenço
 <img src="https://avatars.githubusercontent.com/u/7102375?v=4?s=100" alt="picture of Anne Fouilloux" width="200" height="200">
 
 +++
-*Affiliations:* McMaster University / Cambridge University Press & Assessment.
+*Affiliations:* McMaster University / Cambridge University Press
 
-*Ask me about:* Model interpretability and explainability, Computer Science, Communication
+*Ask me about:* Model explainability, Computer Science, Communication
 :::
 
 :::{grid-item-card} 
@@ -112,7 +110,7 @@ Yuhan (Douglas) Rao
 <img src="https://ncics.org/wp-content/uploads/2016/05/Rao-Douglas-180x0-c-default@1x.jpg" alt="picture of Yuhan (Douglas) Rao" width="200" height="200">
 
 +++
-*Affiliations:* North Carolina Institute for Climate Studies.
+*Affiliations:* North Carolina Institute for Climate Studies
 
 *Ask me about:* Climate Science, Remote Sensing, Machine Learning
 :::
