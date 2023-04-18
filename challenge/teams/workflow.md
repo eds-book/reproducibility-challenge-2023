@@ -18,9 +18,3 @@ The following workflow can be used during the reproducibility challenge:
 8. At the end of the reproducibility challenge, the Data Manager will have to archive the data used to reproduce the paper. 
 
 At all stages, do not hesitate to ask for help in the Climate Informatics 2023 slack channel!
-
-
-- Each user can create private/public buckets
-- users will be able to create private/public buckets with a prefix that depends on their team number e.g. repro-team-XX-* 
-- users can use MinIO GUI at https://repro-challenge-minio.vm.fedcloud.eu for managing/creating buckets or using Python (for instance using MinIO Python package, etc.)
-- we suggest them to create public buckets for their team to share and collaborate.
