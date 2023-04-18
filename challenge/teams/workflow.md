@@ -14,7 +14,7 @@ The following workflow can be used during the reproducibility challenge:
 ![MinIO create bucket](../figures/minIO_create_bucket.png)
 6. The Data Manager can create access keys to manage the bucket from the notebook, as shown on the figrue below:
 ![MinIO create access keys](../figures/minIO_access_keys.png)
-7. Start working (incrementally!) on reproducing the paper. Testing independent sections is recommended. don't forget to take regular breaks and HAVE FUN! Whenever you have achieved a milestone (can be data downloaded, a plot, etc.), make sure to communicate with your peers so that the team presenter can gather the necessary information to show your progress/pending issues during checkpoints.
+7. Start working (incrementally!) on reproducing the paper. Testing independent sections is recommended. Don't forget to take regular breaks and HAVE FUN! Whenever you have achieved a milestone (can be data downloaded, a plot, etc.), make sure to communicate with your peers so that the team presenter can gather the necessary information to show your progress/pending issues during checkpoints.
 8. At the end of the reproducibility challenge, the Data Manager will have to archive the data used to reproduce the paper. 
 
 At all stages, do not hesitate to ask for help in the Climate Informatics 2023 slack channel!
