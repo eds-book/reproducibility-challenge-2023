@@ -58,6 +58,6 @@ It is important for reviewers to be objective and impartial, and to provide cons
 
 ### Application form
 
-Registration is now open at this [link]() through 13 May @ 23:59 AOE.
+Registration is now open at this [link](https://docs.google.com/forms/d/e/1FAIpQLSd5scD-EKETJ3qHJFRXcD3IIli4T2va36DGVckXZO-CjLdGxQ/viewform?usp=share_link) through 13 May @ 23:59 AOE.
 
 In the application form, we encourage reviewers to indicate areas of interest, programming proficiency and other relevant skills.
