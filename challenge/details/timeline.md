@@ -2,7 +2,7 @@
 
 # Key dates
 
-* Challenge Registration Closes (Participants): 29 April @ 23:59 AOE
+* Challenge Registration Closes (Participants): 28 April @ 23:59 AOE
 * Challenge Registration Closes (Reviewers): 13 May @ 23:59 AOE
 * Teams & Project Assignments Announced: 30 April
 * Challenge Begins: 1 May @ 00:00 AOE

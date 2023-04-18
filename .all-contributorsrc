@@ -43,6 +43,26 @@
         "infra"
       ]
     },
+    {
+      "login": "xhejtman",
+      "name": "xhejtman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22795052?v=4",
+      "profile": "https://github.com/xhejtman",
+      "contributions": [
+        "platform",
+        "infra"
+      ]
+    },
+    {
+      "login": "VladimirVisnovsky",
+      "name": "Vladimír Višňovský",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80093856?v=4",
+      "profile": "https://github.com/VladimirVisnovsky",
+      "contributions": [
+        "platform",
+        "infra"
+      ]
+    }
   ],
   "contributorsPerLine": 7,
   "projectName": "reproducibility-challenge-2023",
@@ -50,5 +70,6 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,
-  "contributorsSortAlphabetically": true
+  "contributorsSortAlphabetically": true,
+  "commitConvention": "angular"
 }
