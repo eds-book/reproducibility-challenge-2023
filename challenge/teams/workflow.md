@@ -12,7 +12,7 @@ The following workflow can be used during the reproducibility challenge:
 4. Create issues to organize and dispatch the work. You may use GitHub project but make sure all the team members are acquainted with the procedures put in place in your team; 
 5. (optional) The Data Manager can create a public bucket (read/write) to allow all the team members to share data and work collaboratively. Alternatively, anyone can create buckets but the Data Manager should make sure the storage is optimized and try to avoid duplication of data. All the bucket names should start with `repro-team-XX-* ` where `XX` is your team member (`01`, `02`, etc.) as shown on the figure below:
 ![MinIO create bucket](../figures/minIO_create_bucket.png)
-6. The Data Manager can create access keys to manage the bucket from the notebook, as shown on the figrue below:
+6. If you want access using the [Python package](https://min.io/docs/minio/linux/developers/python/minio-py.html) you need to first create `access keys` as shown below:
 ![MinIO create access keys](../figures/minIO_access_keys.png)
 7. Start working (incrementally!) on reproducing the paper. Testing independent sections is recommended. Don't forget to take regular breaks and HAVE FUN! Whenever you have achieved a milestone (can be data downloaded, a plot, etc.), make sure to communicate with your peers so that the team presenter can gather the necessary information to show your progress/pending issues during checkpoints.
 8. At the end of the reproducibility challenge, the Data Manager will have to archive the data used to reproduce the paper. 
