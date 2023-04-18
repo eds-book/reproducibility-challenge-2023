@@ -10,6 +10,17 @@ The following workflow can be used during the reproducibility challenge:
 2. Choose the notebook template depending on the programming language (Python, R and/or Julia) and click on "use this template" button to create a new repository. This step should be done by the technical lead of your team only e.g. only one repository needs to be created.
 3. The team lead (owner of the repository) adds all the other team members as collaborators to the repository.
 4. Create issues to organize and dispatch the work. You may use GitHub project but make sure all the team members are acquainted with the procedures put in place in your team; 
-5. Start working (incrementally!) on reproducing the paper. Testing independent sections is recommended. don't forget to take regular breaks and HAVE FUN! Whenever you have achieved a milestone (can be data downloaded, a plot, etc.), make sure to communicate with your peers so that the team presenter can gather the necessary information to show your progress/pending issues during checkpoints.
+5. (optional) The Data Manager can create a public bucket (read/write) to allow all the team members to share data and work collaboratively. Alternatively, anyone can create buckets but the Data Manager should make sure the storage is optimized and try to avoid duplication of data. All the bucket names should start with `repro-team-XX-* ` where `XX` is your team member (`01`, `02`, etc.) as shown on the figure below:
+![MinIO create bucket](../figures/minIO_create_bucket.png)
+6. The Data Manager can create access keys to manage the bucket from the notebook, as shown on the figrue below:
+![MinIO create access keys](../figures/minIO_access_keys.png)
+7. Start working (incrementally!) on reproducing the paper. Testing independent sections is recommended. don't forget to take regular breaks and HAVE FUN! Whenever you have achieved a milestone (can be data downloaded, a plot, etc.), make sure to communicate with your peers so that the team presenter can gather the necessary information to show your progress/pending issues during checkpoints.
+8. At the end of the reproducibility challenge, the Data Manager will have to archive the data used to reproduce the paper. 
 
 At all stages, do not hesitate to ask for help in the Climate Informatics 2023 slack channel!
+
+
+- Each user can create private/public buckets
+- users will be able to create private/public buckets with a prefix that depends on their team number e.g. repro-team-XX-* 
+- users can use MinIO GUI at https://repro-challenge-minio.vm.fedcloud.eu for managing/creating buckets or using Python (for instance using MinIO Python package, etc.)
+- we suggest them to create public buckets for their team to share and collaborate.
