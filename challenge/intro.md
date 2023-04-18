@@ -20,7 +20,7 @@ To facilitate the reproducibility of papers, a cloud infrastructure with a [Pang
 
 
 :::{tip}
-The computing and storage resources used for this workshop have been kindly provided by [CESNET](https://www.cesnet.cz/?lang=en) in the context of the [C-SCALE](https://c-scale.eu) project that provides advanced computing for [EOSC](https://eosc-portal.eu/about/eosc).
+The computing and storage resources used for this challenge have been kindly provided by [CESNET](https://www.cesnet.cz/?lang=en) in the context of the [C-SCALE](https://c-scale.eu) project that provides advanced computing for [EOSC](https://eosc-portal.eu/about/eosc).
 
 <table>
   <tr>

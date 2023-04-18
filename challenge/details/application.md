@@ -21,11 +21,8 @@ We provide below the key stages participants will get involved:
 * **Award:** The top team will be awarded based on their ranking and prize pool for the challenge.
 
 :::{tip}
-The computing and storage resources used for this workshop have been kindly provided by [CESNET](https://www.cesnet.cz/?lang=en) in the context of the [C-SCALE](https://c-scale.eu) project that provides advanced computing for [EOSC](https://eosc-portal.eu/about/eosc).
-
-In the CI2023 reproducibility challenge, participants must attempt to reproduce the results of a published scientific study from a list of [pre-approved papers](https://docs.google.com/spreadsheets/d/1fKmt3B5RJjJ0V0CfUksNQr2rZVCkxOO015b_2fwOzpg/edit?usp=sharing) or suggest their own paper. Participants should follow the methods and procedures described in the original study, where possible using same data and software tools.
-
 Participants are welcome to follow tips below for a successful experience in the reproducibility challenge:
+
 * **Understand the study:** carefully read and analyse the original study to fully understand the methods and procedures used to generate the results.
 * **Obtain data and resources:** obtain the data and resources provided by the challenge organizers and ensure they have access to any necessary software tools and computing resources. 
 * **Reproduce results:** attempt to reproduce the results of the original study, following the same methods and procedures as closely as possible.
@@ -61,6 +58,6 @@ It is important for reviewers to be objective and impartial, and to provide cons
 
 ### Application form
 
-Registration is now open at this [link]() through 13 May @ 23:59 AOE.
+Registration is now open at this [link](https://docs.google.com/forms/d/e/1FAIpQLSd5scD-EKETJ3qHJFRXcD3IIli4T2va36DGVckXZO-CjLdGxQ/viewform?usp=share_link) through 13 May @ 23:59 AOE.
 
 In the application form, we encourage reviewers to indicate areas of interest, programming proficiency and other relevant skills.
