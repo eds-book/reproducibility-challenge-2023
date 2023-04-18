@@ -29,7 +29,7 @@ We present below a list of resources suggested to help strengthen your coding sk
 - [JuliaEO 2023- AirCentre](https://aircentre.github.io/JuliaEO/). Global Workshop on Earth Observation with Julia
 - [Julia Programming: A Hands-On Tutorial -  Martín D. Maas](https://www.matecdev.com/posts/julia-tutorial-science-engineering.html). Introductory material about Julia, focusing on its use in Science and Engineering
 - [From zero to Julia! - Aurelio Amerio](https://techytok.com/from-zero-to-julia/). An expanding series of short tutorials about Julia, starting from the beginner level and going up to deal with the more advanced topics
-- [Julia language: a concise tutorial -Antonello Lobianco](https://syl1.gitbook.io/julia-language-a-concise-tutorial/). A basic introduction that includes the main packages
+- [Solving PDEs in parallel on GPUs with Julia -ETH course](https://pde-on-gpu.vaw.ethz.ch/). aims to cover state-of-the-art methods in modern parallel Graphical Processing Unit (GPU) computing, supercomputing and code development with applications to natural sciences and engineering.
 
 ### Cross-languages (Python, R and/or Julia)
 
