@@ -58,8 +58,8 @@ Follow us on Twitter [@Climformatics](https://twitter.com/Climformatics) for upd
 ## Acknowledgments 🙌 
 2023 Climate Informatics Reproducibility Challenge is co-hosted by EDS book, Climate Informatics and Cambridge University Press & Assessment with support from Cambridge University, The Alan Turing Institute and Simula Research Laboratory.
 
-<img src="challenge/figures/logos-organisers.png" height="100">
+<img src="./figures/logos-organisers.png" height="100">
 
 Cloud computing infrastructure is kindly provided by [C-SCALE](https://c-scale.eu/).
 
-<img src="challenge/figures/logo-c-scale-vertical-blue.png" height="100">
+<img src="./figures/logo-c-scale-vertical-blue.png" height="100">
