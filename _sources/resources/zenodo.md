@@ -1,4 +1,4 @@
-(tutorials-zenodo)=
+(resources-zenodo)=
 
 # Zenodo
 

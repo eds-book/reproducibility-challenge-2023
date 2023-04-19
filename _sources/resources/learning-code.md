@@ -1,4 +1,4 @@
-(tutorials-learning-code)=
+(resources-learning-code)=
 
 # Learning to code
 
