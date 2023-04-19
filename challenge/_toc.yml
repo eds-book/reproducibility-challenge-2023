@@ -26,13 +26,13 @@ parts:
   - file: teams/roles
   - file: teams/logistics
   - file: teams/workflow
-- caption: Tutorials
+- caption: Resources
   chapters:
-  - file: tutorials/learning-code
+  - file: resources/learning-code
     title: Learning to code
-  - file: tutorials/github
+  - file: resources/github
     title: GitHub
-  - file: tutorials/jupyter
+  - file: resources/jupyter
     title: Jupyter
-  - file: tutorials/zenodo
+  - file: resources/zenodo
     title: Zenodo

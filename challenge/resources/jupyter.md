@@ -1,4 +1,4 @@
-(tutorials-jupyter)=
+(resources-jupyter)=
 
 # Project Jupyter
 

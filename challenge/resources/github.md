@@ -1,4 +1,4 @@
-(tutorials-github)=
+(resources-github)=
 
 # GitHub
 
