@@ -387,6 +387,7 @@ document.write(`
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#register-and-setup-to-cloud-egi-jupyterhub">Register and setup to Cloud EGI JupyterHub</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#registration">Registration</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#cloud-egi-jupyterhub-flavors">Cloud EGI JupyterHub flavors</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#egi-minio-object-storage">EGI MinIO Object Storage</a></li>
 </ul>
 </li>
 </ul>
@@ -430,13 +431,14 @@ The Pangeo deployment on EOSC has been made possible thanks to <a class="referen
 </section>
 <section id="register-and-setup-to-cloud-egi-jupyterhub">
 <h2>Register and setup to Cloud EGI JupyterHub<a class="headerlink" href="#register-and-setup-to-cloud-egi-jupyterhub" title="Permalink to this headline">#</a></h2>
-<p>To facilitate the reproducibility of the papers, CI2023 reproducibility challenge provides you with a ready-to-use JupyterHub with 3 flavors:</p>
+<p>To facilitate the reproducibility of the papers, CI2023 reproducibility challenge provides you with a ready-to-use JupyterHub with 4 flavors:</p>
 <ul class="simple">
 <li><p>Pangeo Notebook;</p></li>
-<li><p>Machine Learning Pangeo notebook;</p></li>
+<li><p>Machine Learning Pangeo notebook with GPU-enabled tensorflow2;</p></li>
+<li><p>Machine learning Pangeo notebook with GPU-enabled pytorch;</p></li>
 <li><p>Datascience Notebook with Python, R and Julia.</p></li>
 </ul>
-<p>We will give more details about these 3 flavors but first, let’s go through the registration process.</p>
+<p>We will give more details about these 4 flavors but first, let’s go through the registration process.</p>
 <p>The JupyterHub platform was deployed and provided on top of EOSC federation thanks to provider CESNET.</p>
 <p>We recommend using the EOSC/CESNET infrastructure (called later Cloud EGI JupyterHub) to speed-up your work and facilitate sharing among participants.</p>
 <section id="registration">
@@ -455,17 +457,27 @@ The Pangeo deployment on EOSC has been made possible thanks to <a class="referen
 </section>
 <section id="cloud-egi-jupyterhub-flavors">
 <h3>Cloud EGI JupyterHub flavors<a class="headerlink" href="#cloud-egi-jupyterhub-flavors" title="Permalink to this headline">#</a></h3>
-<p>To access the cloud EGI JupyterHub, you need to click on <a class="reference external" href="https://repro-challenge.vm.fedcloud.eu/">this link</a> and choose among the 3 available flavors (as shown on the figure below):</p>
+<p>To access the cloud EGI JupyterHub, you need to click on <a class="reference external" href="https://repro-challenge.vm.fedcloud.eu/">this link</a> and choose among the 4 available flavors (as shown on the figure below):</p>
 <p><img alt="Cloud EGI JupyterHub flavors" src="../_images/flavors.png" /></p>
-<p>The choice between the 3 flavors depends on the paper you are trying to reproduce. Please note that you can also change from one flavor to another by stopping your server and starting it again.</p>
+<p>The choice between the 4 flavors depends on the paper you are trying to reproduce. Please note that you can also change from one flavor to another by stopping your server and starting it again.</p>
 <ul class="simple">
 <li><p>Pangeo Notebook uses a docker image maintained by the Pangeo community. It contains all the Python packages you need to data analysis and visualization. The list of packages and all the Pangeo Notebook environment is made available <a class="reference external" href="https://github.com/pangeo-data/pangeo-docker-images">here</a>; look up the <code class="docutils literal notranslate"><span class="pre">pangeo-notebook</span></code> folder.</p></li>
-<li><p>Machine Learning Pangeo notebook: similarly, it is maintained by the Pangeo community and the complete computational environment with the list of Python packages is also available at <a class="github reference external" href="https://github.com/pangeo-data/pangeo-docker-images">pangeo-data/pangeo-docker-images</a> in the <code class="docutils literal notranslate"><span class="pre">ml-notebook</span></code> folder. This flavor contains all the packages from the Pangeo Notebook flavor and is GPU-enabled tensorflow2. Choose this flavor if you need GPUs; for instance for training neural networks;</p></li>
+<li><p>Machine Learning Pangeo notebook with GPU enable tensorflow2: similarly, it is maintained by the Pangeo community and the complete computational environment with the list of Python packages is also available at <a class="github reference external" href="https://github.com/pangeo-data/pangeo-docker-images">pangeo-data/pangeo-docker-images</a> in the <code class="docutils literal notranslate"><span class="pre">ml-notebook</span></code> folder. This flavor contains all the packages from the Pangeo Notebook flavor and is GPU-enabled tensorflow2. Choose this flavor if you need GPUs; for instance for training neural networks;</p></li>
+<li><p>Machine Learning Pangeo notebook with GPU enable pytorch: it is the same as <code class="docutils literal notranslate"><span class="pre">ml-notebook</span></code> but with GPU-enabled pytorch. Select this flavor if you wish/need to use pytorch for reproducing the selected paper;</p></li>
 <li><p>Datascience Notebook with Python, R and Julia is maintained by the Jupyter community at <a class="github reference external" href="https://github.com/jupyter/docker-stacks">jupyter/docker-stacks</a>. Look up the <code class="docutils literal notranslate"><span class="pre">datascience-notebook</span></code> folder. It contains 3 different kernels, namely Python, R and Julia notebooks. You should prefer this flavor if the paper you reproduce uses R or Julia programming language. Please note that you would probably need to add additional packages as the list of available packages is not exhaustive and specific to environmental data science.</p></li>
 </ul>
-<p>With all the 3 flavors, you can also add additional packages you may need for reproducing the paper of interest.</p>
+<p>With all the 4 flavors, you can also add additional packages you may need for reproducing the paper of interest.</p>
 <p>For the Pangeo and Machine Learning notebook flavors, a Dask-gateway is available for scaling your computation. For more details on this deployment, you may want to take a look at <a class="reference external" href="https://github.com/dask/helm-chart/tree/main/daskhub">Daskhub helm chart</a>.</p>
 <p>From there, you can open and execute any notebooks used during the workshop, enjoy 🚀!</p>
+</section>
+<section id="egi-minio-object-storage">
+<h3>EGI MinIO Object Storage<a class="headerlink" href="#egi-minio-object-storage" title="Permalink to this headline">#</a></h3>
+<p>Each user has a very small amount of local storage when using the Cloud EGI JupyterHub but it is not meant to be used for storing large data.
+As part of the infrastructure provided by CESNET in the context of C-SCALE, dedicated <a class="reference external" href="https://min.io">MinIO Object storage</a> has been setup for the reproducible challenge.</p>
+<p>The MinIO console endpoint is: <a class="reference external" href="https://repro-challenge-minio.vm.fedcloud.eu/">https://repro-challenge-minio.vm.fedcloud.eu/</a>. You can authenticate to the MinIO Object Storage in the same way you login to the Cloud EGI JupyterHub. As shown on the Figure below, make sure you “Select Other Authentication Method” and “Login with SSO (checkin)” to access the MinIO console. Then use your ORCID iD to login.
+<img alt="minIO Login" src="../_images/minIO_login.png" /></p>
+<p>You can create, access and manage your buckets from the minIO console (or use <a class="reference external" href="https://min.io/docs/minio/linux/developers/python/minio-py.html">minIO Python package</a>). The figure below shows the GUI (with several tabs on the left; the bucket tab is selected on the figure): initially, you won’t have any buckets and for instance, you can create public/privates buckets. To share data within your team, you can create a public bucket or provide anonymous access to everyone (read-only) to your bucket. <strong>Keep your access keys private and do not share them to anyone</strong>. More detailed recommendation on how to use the EGI MinIO Object Storage for the reproducibility challenge can be found at <a class="reference external" href="https://eds-book.github.io/reproducibility-challenge-2023/teams/workflow.html">Workflow for a Notebook Project</a>.</p>
+<p><img alt="minIO buckets" src="../_images/minIO_buckets.png" /></p>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
 <p>After the CI2023 reproducibility challenge, you can continue to use the resources to finalize the Jupyter Notebook to be published in the <a class="reference external" href="https://edsbook.org">EDS Book</a>, but note that we would probably modify the service and things might not work from time to time. The link (web address) to the Cloud EGI JupyterHub may change too. <strong>Therefore, we recommend you to copy all the necessary files before; for instance in the Github repository set up for reproducing your paper</strong>.
@@ -557,6 +569,7 @@ We would appreciate you get in touch with us to give us some feedback and be inf
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#register-and-setup-to-cloud-egi-jupyterhub">Register and setup to Cloud EGI JupyterHub</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#registration">Registration</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#cloud-egi-jupyterhub-flavors">Cloud EGI JupyterHub flavors</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#egi-minio-object-storage">EGI MinIO Object Storage</a></li>
 </ul>
 </li>
 </ul>
