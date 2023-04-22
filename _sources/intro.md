@@ -14,10 +14,9 @@ In this year's challenge, teams of 2-4 will collaborate to create a notebook whi
 
 ## Cloud infrastructure
 
-To facilitate the reproducibility of papers, a cloud infrastructure with a [Pangeo](https://pangeo.io/) Machine Learning jupyterhub is being made available (registration to this service is required and free) by the [European Open Science Cloud (EOSC)](https://eosc-portal.eu).
+To facilitate the reproducibility of papers, a cloud infrastructure with a [Pangeo](https://pangeo.io/) Machine Learning JupyterHub is being made available (registration to this service is required and free) by the [European Open Science Cloud (EOSC)](https://eosc-portal.eu).
 
 **Information about access to the JupyterHub can be found [here](preparation/setup).** 
-
 
 :::{tip}
 The computing and storage resources used for this challenge have been kindly provided by [CESNET](https://www.cesnet.cz/?lang=en) in the context of the [C-SCALE](https://c-scale.eu) project that provides advanced computing for [EOSC](https://eosc-portal.eu/about/eosc).
@@ -32,7 +31,6 @@ The computing and storage resources used for this challenge have been kindly pro
 
 :::
 
-
 ## Summary
 Too long; didn’t read? Here is the TL;DR on the 2023 Climate Informatics Reproducibility Challenge:
 - Teams of 2-4
@@ -42,7 +40,6 @@ Too long; didn’t read? Here is the TL;DR on the 2023 Climate Informatics Repro
 - Winning team to receive Cambridge University Press book of their choosing (up to £500 in value split across the winning team) 
 - Authorship on a citeable, DOI-tagged notebook to be integrated within the [Environmental Data Science (EDS) Book](https://edsbook.org/)
 - Great networking and community-building opportunity
-
 
 ## Organising Committee
 The 2023 Climate Informatics Reproducibility Challenge Organising Committee warmly welcomes your participation.
@@ -58,8 +55,8 @@ Follow us on Twitter [@Climformatics](https://twitter.com/Climformatics) for upd
 ## Acknowledgments 🙌 
 2023 Climate Informatics Reproducibility Challenge is co-hosted by EDS book, Climate Informatics and Cambridge University Press & Assessment with support from Cambridge University, The Alan Turing Institute and Simula Research Laboratory.
 
-<img src="./figures/logos-organisers.png" height="100">
+<img src="https://raw.githubusercontent.com/eds-book/reproducibility-challenge-2023/main/challenge/figures/logos-organisers.png" height="100">
 
 Cloud computing infrastructure is kindly provided by [C-SCALE](https://c-scale.eu/).
 
-<img src="./figures/logo-c-scale-vertical-blue.png" height="100">
+<img src="https://raw.githubusercontent.com/eds-book/reproducibility-challenge-2023/main/challenge/figures/logo-c-scale-vertical-blue.png" height="100">
