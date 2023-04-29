@@ -18,4 +18,15 @@ All team member of a given team can read/write data in a private bucket created 
 7. Start working (incrementally!) on reproducing the paper. Testing independent sections is recommended. Don't forget to take regular breaks and HAVE FUN! Whenever you have achieved a milestone (can be data downloaded, a plot, etc.), make sure to communicate with your peers so that the team presenter can gather the necessary information to show your progress/pending issues during checkpoints.
 8. At the end of the reproducibility challenge, the Data Manager will have to archive the data used to reproduce the paper. 
 
+:::{note}
+To save resources and reduce the energy footprint of the reproducibility challenge, we kindly ask you to **shutdown and close your JupyterHub at the end of each day**. First select "Hub Control Panel" in the File Tab:
+![JupyterHub Control Hub Panel](../figures/hub_control_panelJH.png)
+
+ and then click on "Stop My Server" as shown on the figure below:
+
+![Stop my Server Button](../figures/StopServerJH.png)
+
+When your server is not running (stopped), the red button (see figure above) disappears and only the blue button "My Server" remains. To start your sever again, you can click on it and you will be redirected to JupyterLab.
+:::
+
 At all stages, do not hesitate to ask for help in the Climate Informatics 2023 slack channel!

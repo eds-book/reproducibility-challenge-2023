@@ -75,6 +75,16 @@ With all the 4 flavors, you can also add additional packages you may need for re
 
 For the Pangeo and Machine Learning notebook flavors, a Dask-gateway is available for scaling your computation. For more details on this deployment, you may want to take a look at [Daskhub helm chart](https://github.com/dask/helm-chart/tree/main/daskhub).
 
+
+:::{note}
+To save resources and reduce the energy footprint of the reproducibility challenge, we kindly ask you to shutdown and close your JupyterHub at the end of your day. First select "Hub Control Panel" in the File Tab:
+![JupyterHub Control Hub Panel](../figures/hub_control_panelJH.png)
+
+ and then click on "Stop My Server" as shown on the figure below:
+
+![Stop my Server Button](../figures/StopServerJH.png)
+:::
+
 From there, you can open and execute any notebooks used during the workshop, enjoy 🚀!
 
 ### EGI MinIO Object Storage
