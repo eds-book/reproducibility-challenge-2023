@@ -34,12 +34,7 @@ Participants are welcome to follow tips below for a successful experience in the
 
 ### Application form
 
-Registration is now open at this [link](https://forms.gle/ixRizjFYP3BxycEfA) through 28 April @ 23:59 AOE.
-
-In the application form, we encourage participants to select one of two tracks:
-
-* Pre-Approved Paper Track: Reproduce a paper pre-approved by the Organising Committee to have sufficient data and code availability. Pre-approved papers are listed in alphabetical order [here](https://docs.google.com/spreadsheets/d/1fKmt3B5RJjJ0V0CfUksNQr2rZVCkxOO015b_2fwOzpg/edit?usp=sharing).
-* Participant-Suggested Paper Track: Suggest a paper to reproduce, subject to approval by the Organising Committee. This mechanism is designed to ensure teams choose papers which are realistic to reproduce in a month.
+The application period has now closed. Thank you for your interest.
 
 ## Information for reviewers
 
