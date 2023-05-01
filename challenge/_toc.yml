@@ -6,8 +6,8 @@ root: intro
 parts:
 - caption: Details
   chapters:
-  - file: details/timeline
-    title: Timeline
+  - file: details/timeline-schedule
+    title: Timeline and Schedule
   - file: details/application
     title: Application
   - file: details/judging
