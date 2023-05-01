@@ -62,6 +62,17 @@
         "platform",
         "infra"
       ]
+    },
+    {
+      "login": "ampersandmcd",
+      "name": "Andrew McDonald",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44277620?v=4",
+      "profile": "https://github.com/ampersandmcd",
+      "contributions": [
+        "ideas",
+        "promotion",
+        "eventOrganizing"
+      ]
     }
   ],
   "contributorsPerLine": 7,
