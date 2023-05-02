@@ -37,7 +37,7 @@ The schedule is also available as a Google Calendar (see [here](https://calendar
 
 Please find below the recordings and slides.
 
-| Date, PST [(UTC+1)](https://www.timeanddate.com/time/zones/bst) | Event                                      | Who                                      | Links                 |
+| Date, BST [(UTC+1)](https://www.timeanddate.com/time/zones/bst) | Event                                      | Who                                      | Links                 |
 |-----------------------------------------------------------------|--------------------------------------------|------------------------------------------|-----------------------|
 | 2 May, 14:00-15:00                                              | Welcome                                    | CI2023 Reproducibility Organisers        | Recording / Slides    |                         
 | 2 May, 15:00-16:00                                              | Technology Overview                        | CI2023 Reproducibility Organisers        | Recording / Slides    |
