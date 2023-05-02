@@ -33,3 +33,15 @@ We suggest teams allocate an average of about 2 hours per day for preparing thei
 
 The schedule is also available as a Google Calendar (see [here](https://calendar.google.com/calendar/embed?src=6d3b3d272eecb65d0ba680044dc78a099be74ba53660d6ec1f93285978d97a46%40group.calendar.google.com&ctz=Europe%2FLondon)).
 
+## Recordings and Slides
+
+Please find below the recordings and slides.
+
+| Date, PST [(UTC+1)](https://www.timeanddate.com/time/zones/bst) | Event                                      | Who                                      | Links                 |
+|-----------------------------------------------------------------|--------------------------------------------|------------------------------------------|-----------------------|
+| 1 May, 14:00-15:00                                              | Welcome                                    | CI2023 Reproducibility Organisers        | Recording / Slides    |                         
+| 1 May, 15:00-16:00                                              | Technology Overview                        | CI2023 Reproducibility Organisers        | Recording / Slides    |
+| 5 May, 16:00 - 17:00                                            | Talk with the Expert - Open Infrastructure | Sebastian Luna-Valero - EGI Foundation   | Recording / Slides    |
+| 8 May, 9:00 - 10:00                                             | Talk with the Expert - R programming       | Cesar Luis Aybar - rOpenSci              | Recording / Slides    |
+| 8 May, 16:00 - 17:00                                            | Talk with the Expert - Python programming  | Brian Rose - Pythia Project              | Recording / Slides    |
+| 12 May, 9:00 - 10:00                                            | Talk with the Expert - Julia programming   | Rafael Schouten - JuiiaGeo               | Recording / Slides    |
