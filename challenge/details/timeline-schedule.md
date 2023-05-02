@@ -37,11 +37,11 @@ The schedule is also available as a Google Calendar (see [here](https://calendar
 
 Please find below the recordings and slides.
 
-| Date, BST [(UTC+1)](https://www.timeanddate.com/time/zones/bst) | Event                                      | Who                                      | Links                 |
-|-----------------------------------------------------------------|--------------------------------------------|------------------------------------------|-----------------------|
-| 2 May, 14:00-15:00                                              | Welcome                                    | CI2023 Reproducibility Organisers        | Recording / Slides    |                         
-| 2 May, 15:00-16:00                                              | Technology Overview                        | CI2023 Reproducibility Organisers        | Recording / Slides    |
-| 5 May, 16:00 - 17:00                                            | Talk with the Expert - Open Infrastructure | Sebastian Luna-Valero - EGI Foundation   | Recording / Slides    |
-| 8 May, 9:00 - 10:00                                             | Talk with the Expert - R programming       | Cesar Luis Aybar - rOpenSci              | Recording / Slides    |
-| 8 May, 16:00 - 17:00                                            | Talk with the Expert - Python programming  | Brian Rose - Pythia Project              | Recording / Slides    |
-| 12 May, 9:00 - 10:00                                            | Talk with the Expert - Julia programming   | Rafael Schouten - JuiiaGeo               | Recording / Slides    |
+| Date, BST [(UTC+1)](https://www.timeanddate.com/time/zones/bst) | Event                                      | Who                                         | Links                                                                                        |
+|-----------------------------------------------------------------|--------------------------------------------|---------------------------------------------|----------------------------------------------------------------------------------------------|
+| 2 May, 14:00-15:00                                              | Welcome                                    | CI2023 Reproducibility Challenge Organisers | [Recording](https://youtu.be/9GcpONrkk-E) / [Slides](https://doi.org/10.5281/zenodo.7888409) |                         
+| 2 May, 15:00-16:00                                              | Technology Overview                        | CI2023 Reproducibility Challenge Organisers | [Recording](https://youtu.be/0YB935LPen4) / [Slides](https://doi.org/10.5281/zenodo.7888484) |
+| 5 May, 16:00 - 17:00                                            | Talk with the Expert - Open Infrastructure | Sebastian Luna-Valero - EGI Foundation      | Recording / Slides                                                                           |
+| 8 May, 9:00 - 10:00                                             | Talk with the Expert - R programming       | Cesar Luis Aybar - rOpenSci                 | Recording / Slides                                                                           |
+| 8 May, 16:00 - 17:00                                            | Talk with the Expert - Python programming  | Brian Rose - Pythia Project                 | Recording / Slides                                                                           |
+| 12 May, 9:00 - 10:00                                            | Talk with the Expert - Julia programming   | Rafael Schouten - JuiiaGeo                  | Recording / Slides                                                                           |
