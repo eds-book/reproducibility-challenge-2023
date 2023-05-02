@@ -40,7 +40,7 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
-  announcement: "🚧 This website is currently being developed! 🚧 "
+#  announcement: "🚧 This website is currently being developed! 🚧 "
 
 sphinx:
   config:
