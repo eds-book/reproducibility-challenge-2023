@@ -9,7 +9,7 @@
 * Challenge Begins: 1 May @ 00:00 AOE
 * Submission of a Minimum Viable Working Notebook (Teams): 18 May @ 00:00 AOE
 * Peer Review Begins: ~~15~~ 22 May @ 00:00 AOE
-* Challenge Ends: 31 May @ 23:59 AOE
+* Challenge Ends (Submission of the final Peer-reviewed Notebook): 31 May @ 23:59 AOE
 * Results Announced: 15 June
 * Submissions Integrated into EDS Book: Throughout summer
 
