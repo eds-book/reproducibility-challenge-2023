@@ -102,6 +102,15 @@
       "contributions": [
         "talk"
       ]
+    },
+    {
+      "login": "brian-rose",
+      "name": "Brian Rose",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9097307?v=4",
+      "profile": "http://www.atmos.albany.edu/facstaff/brose/index.html",
+      "contributions": [
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7,
