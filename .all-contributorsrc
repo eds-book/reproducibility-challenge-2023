@@ -93,6 +93,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "csaybar",
+      "name": "Cesar Aybar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16768318?v=4",
+      "profile": "http://csaybar.github.io",
+      "contributions": [
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7,
