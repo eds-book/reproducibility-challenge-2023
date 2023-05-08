@@ -72,8 +72,6 @@ Talk with the Expert features advances in open and reproducible research as part
    * Climate Informatics: [http://www.climateinformatics.org/](http://www.climateinformatics.org/)
    * Environmental Data Science - part of Cambridge University Press and Assessment, [https://www.cambridge.org/core/journals/environmental-data-science](https://www.cambridge.org/core/journals/environmental-data-science)
 
-## Feedback`
-
 ## Feedback
 
 What worked?
