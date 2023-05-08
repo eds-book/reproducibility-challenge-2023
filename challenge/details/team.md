@@ -122,4 +122,5 @@ Yuhan (Douglas) Rao
 
 ## Challenge Helpers
 
+- Jean Iaquinta, University of Oslo
 - Kacey Cheyenne Mallow, Cambridge University Press
