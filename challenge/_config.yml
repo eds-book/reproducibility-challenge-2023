@@ -40,7 +40,7 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
-  announcement: "📣 Call to Reviewers is still Open (Deadline 13 May @ 23:59 AOE) - Find more at Details > Application! 📣"
+#  announcement: "📣 Call to Reviewers is still Open (Deadline 13 May @ 23:59 AOE) - Find more at Details > Application! 📣"
 
 sphinx:
   config:
