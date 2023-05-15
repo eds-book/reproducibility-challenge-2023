@@ -28,9 +28,9 @@ See the schedule below for details.
 
 All times listed below are UTC + 1 (British Summer Time). You might want to consult this [Time Zone Map](https://www.timeanddate.com/time/map/) to figure out times in your location.
 
-We suggest teams allocate an average of about 2 hours per day for preparing their submissions.
+We suggest teams allocate an average of about 2 hours per day for preparing their submissions. ![](../figures/schedule.pdf)
 
-<iframe src="../../../figures/schedule.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+<iframe src="../_images/schedule.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
 The schedule is also available as a Google Calendar (see [here](https://calendar.google.com/calendar/embed?src=6d3b3d272eecb65d0ba680044dc78a099be74ba53660d6ec1f93285978d97a46%40group.calendar.google.com&ctz=Europe%2FLondon)).
 
