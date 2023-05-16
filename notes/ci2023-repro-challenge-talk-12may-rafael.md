@@ -4,7 +4,7 @@
 
 ### *This event is hosted by EDS book, Climate Informatics and Environmental Data Science Journal*
 
-*Event facilitators: *Alejandro Coca-Castro and Anne Fouilloux
+*Event facilitators:* Alejandro Coca-Castro and Anne Fouilloux
 
 *Bring along your favourite hot/cold drink, snack and questions about the talk. And, while you wait for the event to start - please read more about the chairs, speaker and the event in this document. 🌻*
 
