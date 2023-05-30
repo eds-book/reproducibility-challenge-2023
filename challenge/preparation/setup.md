@@ -4,7 +4,7 @@
 
 In this section, you will learn how to register and access to the ready-to-use cloud EGI JupyterHub.
 
-Let's start with a bit of background information! The cloud resources for the CI2023 reproducibility challenge are provided through the collaboration betwwen the [Pangeo community](https://pangeo.io) and the European project called [C-SCALE](https://c-scale.eu) within the [European Open Science Cloud](https://eosc-portal.eu/about/eosc) framework.
+Let's start with a bit of background information! The cloud resources for the CI2023 reproducibility challenge are provided through the collaboration between the [Pangeo community](https://pangeo.io) and the European project called [C-SCALE](https://c-scale.eu) within the [European Open Science Cloud](https://eosc-portal.eu/about/eosc) framework.
 
 ## Background information
 
