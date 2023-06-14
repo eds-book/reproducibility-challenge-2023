@@ -1,7 +1,7 @@
 # Reproducibility Challenge 2023
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <img src="challenge/figures/splash-reproducibility-challenge.png">
@@ -50,6 +50,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="11.11%"><a href="https://github.com/garimamalhotra"><img src="https://avatars.githubusercontent.com/u/7003802?v=4?s=100" width="100px;" alt="garimamalhotra"/><br /><sub><b>garimamalhotra</b></sub></a><br /><a href="#research-garimamalhotra" title="Research">🔬</a></td>
       <td align="center" valign="top" width="11.11%"><a href="https://github.com/j34ni"><img src="https://avatars.githubusercontent.com/u/44261743?v=4?s=100" width="100px;" alt="j34ni"/><br /><sub><b>j34ni</b></sub></a><br /><a href="#content-j34ni" title="Content">🖋</a></td>
       <td align="center" valign="top" width="11.11%"><a href="https://github.com/oscarbau"><img src="https://avatars.githubusercontent.com/u/41731874?v=4?s=100" width="100px;" alt="oscarbau"/><br /><sub><b>oscarbau</b></sub></a><br /><a href="https://github.com/eds-book/reproducibility-challenge-2023/pulls?q=is%3Apr+reviewed-by%3Aoscarbau" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="11.11%"><a href="https://github.com/todaka"><img src="https://avatars.githubusercontent.com/u/16473778?v=4?s=100" width="100px;" alt="todaka"/><br /><sub><b>todaka</b></sub></a><br /><a href="https://github.com/eds-book/reproducibility-challenge-2023/pulls?q=is%3Apr+reviewed-by%3Atodaka" title="Reviewed Pull Requests">👀</a></td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="11.11%"><a href="https://github.com/xhejtman"><img src="https://avatars.githubusercontent.com/u/22795052?v=4?s=100" width="100px;" alt="xhejtman"/><br /><sub><b>xhejtman</b></sub></a><br /><a href="#platform-xhejtman" title="Packaging/porting to new platform">📦</a> <a href="#infra-xhejtman" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
     </tr>
   </tbody>
