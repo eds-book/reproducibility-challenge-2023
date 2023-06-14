@@ -41,7 +41,8 @@
       "contributions": [
         "platform",
         "infra",
-        "talk"
+        "talk",
+        "financial"
       ]
     },
     {
@@ -93,5 +94,6 @@
   "repoHost": "https://github.com",
   "skipCi": true,
   "contributorsSortAlphabetically": true,
-  "commitConvention": "angular"
+  "commitConvention": "angular",
+  "commitType": "docs"
 }
