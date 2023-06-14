@@ -8,7 +8,7 @@
     {
       "login": "acocac",
       "name": "Alejandro ©",
-      "avatar_url": "https://avatars.githubusercontent.com/u/13321552?v=4",
+      "avatar_url": "https://media.licdn.com/dms/image/C5103AQHqFUCP3CB1Iw/profile-displayphoto-shrink_200_200/0/1516959000991?e=1692230400&v=beta&t=uXdY2V16nJ6ZLk3LPXWyuqw7ahpJp9J0dPhUow6SOf4",
       "profile": "https://github.com/acocac",
       "contributions": [
         "ideas",
@@ -297,6 +297,16 @@
       "name": "Scott Hosking",
       "avatar_url": "https://avatars.githubusercontent.com/u/10783052?v=4",
       "profile": "https://scotthosking.com",
+      "contributions": [
+        "financial",
+        "ideas"
+      ]
+    },
+    {
+      "login": "",
+      "name": "Andrew Hyde",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10783052?v=4",
+      "profile": "https://www.linkedin.com/in/andrew-hyde-b8913957",
       "contributions": [
         "financial",
         "ideas"
