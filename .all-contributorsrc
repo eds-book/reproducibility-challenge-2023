@@ -282,6 +282,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "geo-yrao",
+      "name": "Yuhan (Douglas) Rao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38257268?v=4",
+      "profile": "https://github.com/geo-yrao",
+      "contributions": [
+        "blog"
+      ]
     }
   ],
   "contributorsPerLine": 8,
