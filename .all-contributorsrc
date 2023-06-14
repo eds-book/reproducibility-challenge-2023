@@ -264,6 +264,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "todaka",
+      "name": "todaka",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16473778?v=4",
+      "profile": "https://github.com/todaka",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 9,
