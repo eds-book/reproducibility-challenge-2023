@@ -1,7 +1,7 @@
 # Reproducibility Challenge 2023
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <img src="challenge/figures/splash-reproducibility-challenge.png">
@@ -35,9 +35,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://uk.linkedin.com/in/sebastianlunavalero/en"><img src="https://avatars.githubusercontent.com/u/5345517?v=4?s=100" width="100px;" alt="Sebastian Luna-Valero"/><br /><sub><b>Sebastian Luna-Valero</b></sub></a><br /><a href="#platform-sebastian-luna-valero" title="Packaging/porting to new platform">📦</a> <a href="#infra-sebastian-luna-valero" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#talk-sebastian-luna-valero" title="Talks">📢</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ViktorDomazetoski"><img src="https://avatars.githubusercontent.com/u/101590116?v=4?s=100" width="100px;" alt="Viktor Domazetoski"/><br /><sub><b>Viktor Domazetoski</b></sub></a><br /><a href="#research-ViktorDomazetoski" title="Research">🔬</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/VladimirVisnovsky"><img src="https://avatars.githubusercontent.com/u/80093856?v=4?s=100" width="100px;" alt="Vladimír Višňovský"/><br /><sub><b>Vladimír Višňovský</b></sub></a><br /><a href="#platform-VladimirVisnovsky" title="Packaging/porting to new platform">📦</a> <a href="#infra-VladimirVisnovsky" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/j34ni"><img src="https://avatars.githubusercontent.com/u/44261743?v=4?s=100" width="100px;" alt="j34ni"/><br /><sub><b>j34ni</b></sub></a><br /><a href="#content-j34ni" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/garimamalhotra"><img src="https://avatars.githubusercontent.com/u/7003802?v=4?s=100" width="100px;" alt="garimamalhotra"/><br /><sub><b>garimamalhotra</b></sub></a><br /><a href="#research-garimamalhotra" title="Research">🔬</a></td>
     </tr>
     <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/j34ni"><img src="https://avatars.githubusercontent.com/u/44261743?v=4?s=100" width="100px;" alt="j34ni"/><br /><sub><b>j34ni</b></sub></a><br /><a href="#content-j34ni" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/xhejtman"><img src="https://avatars.githubusercontent.com/u/22795052?v=4?s=100" width="100px;" alt="xhejtman"/><br /><sub><b>xhejtman</b></sub></a><br /><a href="#platform-xhejtman" title="Packaging/porting to new platform">📦</a> <a href="#infra-xhejtman" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
     </tr>
   </tbody>
