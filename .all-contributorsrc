@@ -120,6 +120,15 @@
       "contributions": [
         "talk"
       ]
+    },
+    {
+      "login": "aleesteele",
+      "name": "Anne Lee Steele",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18509789?v=4",
+      "profile": "http://www.aleesteele.com",
+      "contributions": [
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -129,5 +138,6 @@
   "repoHost": "https://github.com",
   "skipCi": true,
   "contributorsSortAlphabetically": true,
-  "commitConvention": "angular"
+  "commitConvention": "angular",
+  "commitType": "docs"
 }
