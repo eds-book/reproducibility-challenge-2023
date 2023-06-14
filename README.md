@@ -1,7 +1,7 @@
 # Reproducibility Challenge 2023
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-30-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <img src="challenge/figures/splash-reproducibility-challenge.png">
@@ -50,6 +50,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="12.5%"><a href="https://github.com/VladimirVisnovsky"><img src="https://avatars.githubusercontent.com/u/80093856?v=4?s=100" width="100px;" alt="Vladimír Višňovský"/><br /><sub><b>Vladimír Višňovský</b></sub></a><br /><a href="#platform-VladimirVisnovsky" title="Packaging/porting to new platform">📦</a> <a href="#infra-VladimirVisnovsky" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
     </tr>
     <tr>
+      <td align="center" valign="top" width="12.5%"><a href="https://github.com/geo-yrao"><img src="https://avatars.githubusercontent.com/u/38257268?v=4?s=100" width="100px;" alt="Yuhan (Douglas) Rao"/><br /><sub><b>Yuhan (Douglas) Rao</b></sub></a><br /><a href="#blog-geo-yrao" title="Blogposts">📝</a></td>
       <td align="center" valign="top" width="12.5%"><a href="https://github.com/garimamalhotra"><img src="https://avatars.githubusercontent.com/u/7003802?v=4?s=100" width="100px;" alt="garimamalhotra"/><br /><sub><b>garimamalhotra</b></sub></a><br /><a href="#research-garimamalhotra" title="Research">🔬</a></td>
       <td align="center" valign="top" width="12.5%"><a href="https://github.com/j34ni"><img src="https://avatars.githubusercontent.com/u/44261743?v=4?s=100" width="100px;" alt="j34ni"/><br /><sub><b>j34ni</b></sub></a><br /><a href="#content-j34ni" title="Content">🖋</a></td>
       <td align="center" valign="top" width="12.5%"><a href="https://github.com/oscarbau"><img src="https://avatars.githubusercontent.com/u/41731874?v=4?s=100" width="100px;" alt="oscarbau"/><br /><sub><b>oscarbau</b></sub></a><br /><a href="https://github.com/eds-book/reproducibility-challenge-2023/pulls?q=is%3Apr+reviewed-by%3Aoscarbau" title="Reviewed Pull Requests">👀</a></td>
