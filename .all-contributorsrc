@@ -293,6 +293,15 @@
       "contributions": [
         "blog"
       ]
+    },
+    {
+      "login": "scotthosking",
+      "name": "Scott Hosking",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10783052?v=4",
+      "profile": "https://scotthosking.com",
+      "contributions": [
+        "financial"
+      ]
     }
   ],
   "contributorsPerLine": 8,
