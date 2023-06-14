@@ -1,7 +1,7 @@
 # Reproducibility Challenge 2023
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-26-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <img src="challenge/figures/splash-reproducibility-challenge.png">
@@ -42,6 +42,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="11.11%"><a href="https://github.com/Rutika-16"><img src="https://avatars.githubusercontent.com/u/121792213?v=4?s=100" width="100px;" alt="RUTIKA"/><br /><sub><b>RUTIKA</b></sub></a><br /><a href="#research-Rutika-16" title="Research">🔬</a></td>
     </tr>
     <tr>
+      <td align="center" valign="top" width="11.11%"><a href="https://github.com/RachelFurner"><img src="https://avatars.githubusercontent.com/u/47982456?v=4?s=100" width="100px;" alt="RachelFurner"/><br /><sub><b>RachelFurner</b></sub></a><br /><a href="https://github.com/eds-book/reproducibility-challenge-2023/pulls?q=is%3Apr+reviewed-by%3ARachelFurner" title="Reviewed Pull Requests">👀</a></td>
       <td align="center" valign="top" width="11.11%"><a href="http://about.me/ricardobarroslourenco"><img src="https://avatars.githubusercontent.com/u/7102375?v=4?s=100" width="100px;" alt="Ricardo Barros Lourenço"/><br /><sub><b>Ricardo Barros Lourenço</b></sub></a><br /><a href="https://github.com/eds-book/reproducibility-challenge-2023/commits?author=ricardobarroslourenco" title="Tests">⚠️</a> <a href="#promotion-ricardobarroslourenco" title="Promotion">📣</a></td>
       <td align="center" valign="top" width="11.11%"><a href="https://uk.linkedin.com/in/sebastianlunavalero/en"><img src="https://avatars.githubusercontent.com/u/5345517?v=4?s=100" width="100px;" alt="Sebastian Luna-Valero"/><br /><sub><b>Sebastian Luna-Valero</b></sub></a><br /><a href="#platform-sebastian-luna-valero" title="Packaging/porting to new platform">📦</a> <a href="#infra-sebastian-luna-valero" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#talk-sebastian-luna-valero" title="Talks">📢</a></td>
       <td align="center" valign="top" width="11.11%"><a href="https://github.com/ViktorDomazetoski"><img src="https://avatars.githubusercontent.com/u/101590116?v=4?s=100" width="100px;" alt="Viktor Domazetoski"/><br /><sub><b>Viktor Domazetoski</b></sub></a><br /><a href="#research-ViktorDomazetoski" title="Research">🔬</a></td>
