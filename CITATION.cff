@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "To reference the latest version of The 2023 Climate Informatics Reproducibility Challenge, please cite it as below."
+authors:
+  - name: "The 2023 Climate Informatics Reproducibility Challenge"
+title: "The 2023 Climate Informatics Reproducibility Challenge."
+version: v08.02.2024
+identifiers:
+  - description: The concept DOI for the collection containing all versions of the Citation File Format.
+    type: doi
+    value: "10.5281/zenodo.10403129"
+keywords:
+  - environmental informatics
+  - reproducibility
+  - transparent
+  - collaboration
+  - community
+  - hackathon
+references:
+  - type: book
+    authors:
+      - family-names: All contributors
+        given-names: The 2023 Climate Informatics Reproducibility Challenge
+        affiliation: "Multiple"
+        email: "environmental.ds.book@gmail.com"
+        website: "https://github.com/eds-book/reproducibility-challenge-2023/"
+    title: The 2023 Climate Informatics Reproducibility Challenge
